@@ -1,0 +1,415 @@
+id,asset_type_id,name,manufacturer,model,Micro (Yes/No),Voltage,Warranty (Years)
+1610,2,ABB MICRO-0.25-I-OUTD,ABB,MICRO-0.25-I-OUTD,Yes,264,10
+1611,2,ABB MICRO-0.3-I-OUTD,ABB,MICRO-0.3-I-OUTD,Yes,264,10
+1612,2,ABB MICRO-0.3HV-I-OUTD,ABB,MICRO-0.3HV-I-OUTD,Yes,264,10
+1617,2,ABB PVI-10.0-I-OUTD-US,ABB,PVI-10.0-I-OUTD-US,No,480,10
+1618,2,ABB PVI-12.0-I-OUTD-US,ABB,PVI-12.0-I-OUTD-US,No,480,10
+1613,2,ABB PVI-3.0-OUTD-US,ABB,PVI-3.0-OUTD-US,No,264,10
+1614,2,ABB PVI-3.6-OUTD-US,ABB,PVI-3.6-OUTD-US,No,264,10
+1615,2,ABB PVI-3.8-OUTD-US,ABB,PVI-3.8-OUTD-US,No,264,10
+1616,2,ABB PVI-4.2-OUTD-US,ABB,PVI-4.2-OUTD-US,No,264,10
+1619,2,ABB PVI-5000-OUTD-US,ABB,PVI-5000-OUTD-US,No,264,10
+1620,2,ABB PVI-6000-OUTD-US,ABB,PVI-6000-OUTD-US,No,264,10
+1621,2,ABB PVS800-57-0100kW-A,ABB,PVS800-57-0100kW-A,No,300,10
+1622,2,ABB PVS800-57-0250kW-A,ABB,PVS800-57-0250kW-A,No,300,10
+1623,2,ABB PVS800-57-0315kW-B,ABB,PVS800-57-0315kW-B,No,350,10
+1582,2,ABB PVS800-57-0500kW-A,ABB,PVS800-57-0500kW-A,No,300,10
+1584,2,ABB PVS800-57-0630kW-B,ABB,PVS800-57-0630kW-B,No,350,10
+1585,2,ABB PVS800-57-0875kW-B,ABB,PVS800-57-0875kW-B,No,350,10
+1587,2,ABB PVS800-57-1000kW-C,ABB,PVS800-57-1000kW-C,No,400,10
+1680,2,ABB PVS800-IS-1750kW-B,ABB,PVS800-IS-1750kW-B,No,350,10
+1681,2,ABB PVS800-IS-2000kW-C,ABB,PVS800-IS-2000kW-C,No,400,10
+,2,ABB PVS980,ABB,PVS980,No,1500,10
+1589,2,ABB TRIO-20.0-TL-OUTD,ABB,TRIO-20.0-TL-OUTD,No,480,20
+1590,2,ABB TRIO-27.6-TL-OUTD,ABB,TRIO-27.6-TL-OUTD,No,480,20
+,2,ABB TRIO-50.0,ABB,TRIO-50.0,No,,20
+1595,2,ABB ULTRA-1100-TL-OUTD-X-US-690,ABB,ULTRA-1100-TL-OUTD-X-US-690,No,690,20
+1596,2,ABB ULTRA-1500-TL-OUTD-X-US-690,ABB,ULTRA-1500-TL-OUTD-X-US-690,No,690,20
+,2,ABB ULTRA-750,ABB,ULTRA-750,No,,20
+307,2,ABB UNO-2.0-I-OUTD-S-US,ABB,UNO-2.0-I-OUTD-S-US,No,264,20
+308,2,ABB UNO-2.5-I-OUTD-S-US,ABB,UNO-2.5-I-OUTD-S-US,No,264,20
+1597,2,ABB UNO-7.6-TL-OUTD-S-US-A,ABB,UNO-7.6-TL-OUTD-S-US-A,No,264,10
+1598,2,ABB UNO-8.6-TL-OUTD-S-US-A,ABB,UNO-8.6-TL-OUTD-S-US-A,No,264,10
+1682,2,Chint Power CPS SC100KT-O/US-480,Chint Power,CPS SC100KT-O/US-480,No,480,20
+1683,2,Chint Power CPS SC100KT-OPG/US-480,Chint Power,CPS SC100KT-OPG/US-480,No,480,20
+1684,2,Chint Power CPS SC14KTL-DO/US-208,Chint Power,CPS SC14KTL-DO/US-208,No,208,20
+1685,2,Chint Power CPS SC20KTL-DO/US-480,Chint Power,CPS SC20KTL-DO/US-480,No,480,20
+1686,2,Chint Power CPS SCA23KTL-DO/US-480,Chint Power,CPS SCA23KTL-DO/US-480,No,480,20
+1663,2,Chint Power CPS SCA28KTL-DO/US-480,Chint Power,CPS SCA28KTL-DO/US-480,No,480,20
+1687,2,Chint Power CPS SCA36KTL-DO/US-480,Chint Power,CPS SCA36KTL-DO/US-480,No,480,20
+,2,Chint Power CPS SCA36KTL-DO/US-480 (10 Input),Chint Power,CPS SCA36KTL-DO/US-480 (10 Input),No,,20
+,2,Chint Power CPS SCA36KTL-DO/US-480 (8 Input),Chint Power,CPS SCA36KTL-DO/US-480 (8 Input),No,,20
+,2,Chint Power CPS SCA50KTL-DO/US-480,Chint Power,CPS SCA50KTL-DO/US-480,No,,20
+,2,Chint Power CPS SCA60KTL-DO/US-480,Chint Power,CPS SCA60KTL-DO/US-480,No,,20
+2025,2,Delta  RPI M20A,Delta ,RPI M20A,No,,20
+,2,Delta M60U_120,Delta,M60U_120,No,,20
+,2,Delta M60U_121,Delta,M60U_121,No,,20
+,2,Delta M60U_122,Delta,M60U_122,No,,20
+,2,Delta M80U_120,Delta,M80U_120,No,,20
+,2,Delta M80U_121,Delta,M80U_121,No,,20
+,2,Delta M80U_122,Delta,M80U_122,No,,20
+,2,Delta RPI H3,Delta,RPI H3,No,,20
+,2,Delta RPI H4A,Delta,RPI H4A,No,,20
+,2,Delta RPI H5A,Delta,RPI H5A,No,,20
+,2,Delta RPI M10A,Delta,RPI M10A,No,,20
+,2,Delta RPI M15A,Delta,RPI M15A,No,,20
+,2,Delta RPI M20A,Delta,RPI M20A,No,,20
+,2,Delta RPI M30A,Delta,RPI M30A,No,,20
+,2,Delta RPI M50A,Delta,RPI M50A,No,,20
+,2,Delta RPI M6A,Delta,RPI M6A,No,,20
+,2,Delta RPI M8A,Delta,RPI M8A,No,,20
+,2,Delta SOLIVIA G315EUTL,Delta,SOLIVIA G315EUTL,No,,20
+,2,Delta SOLIVIA G32.0EUTL,Delta,SOLIVIA G32.0EUTL,No,,20
+,2,Delta SOLIVIA G32.5EUTR,Delta,SOLIVIA G32.5EUTR,No,,20
+,2,Delta SOLIVIA G33.0EUTR,Delta,SOLIVIA G33.0EUTR,No,,20
+,2,Delta SOLIVIA G33.3EUTR,Delta,SOLIVIA G33.3EUTR,No,,20
+,2,Delta SOLIVIA G35.0EUTR,Delta,SOLIVIA G35.0EUTR,No,,20
+,2,Delta SOLIVIA G41.0EUTL,Delta,SOLIVIA G41.0EUTL,No,,20
+,2,Delta SOLIVIA G41.0EUTR,Delta,SOLIVIA G41.0EUTR,No,,20
+,2,Delta SOLIVIA G41.1EUTR,Delta,SOLIVIA G41.1EUTR,No,,20
+,2,Delta SOLIVIA G41.2EUTL,Delta,SOLIVIA G41.2EUTL,No,,20
+,2,Delta SOLIVIA G41.5EUTL,Delta,SOLIVIA G41.5EUTL,No,,20
+,2,Delta SOLIVIA G42.0EUTL,Delta,SOLIVIA G42.0EUTL,No,,20
+,2,Delta SOLIVIA G42.0EUTR,Delta,SOLIVIA G42.0EUTR,No,,20
+,2,Delta SOLIVIA G42.5EUTR,Delta,SOLIVIA G42.5EUTR,No,,20
+,2,Delta SOLIVIA G43.0EUTL,Delta,SOLIVIA G43.0EUTL,No,,20
+,2,Delta SOLIVIA G43.0EUTR,Delta,SOLIVIA G43.0EUTR,No,,20
+,2,Delta SOLIVIA G43.3EUTR,Delta,SOLIVIA G43.3EUTR,No,,20
+,2,Delta SOLIVIA G45.0EUTR,Delta,SOLIVIA G45.0EUTR,No,,20
+,2,Delta SOLIVIA G46EUTL,Delta,SOLIVIA G46EUTL,No,,20
+,2,Delta SOLIVIA G48EUTL,Delta,SOLIVIA G48EUTL,No,,20
+1639,2,Enphase C250-72-2LN-S2,Enphase,C250-72-2LN-S2,Yes,240,20
+1803,2,Enphase C250-72-2LN-S5,Enphase,C250-72-2LN-S5,Yes,248,20
+,2,Enphase D380,Enphase,D380,Yes,,15
+1343,2,Enphase M215-60-2LL-S22-IG ,Enphase,M215-60-2LL-S22-IG ,Yes,208,25
+1804,2,Enphase M215-60-2LL-S25-IG ,Enphase,M215-60-2LL-S25-IG ,Yes,240,25
+1342,2,Enphase M250-60-2LL-S22,Enphase,M250-60-2LL-S22,Yes,248,25
+1805,2,Enphase M250-60-2LL-S25,Enphase,M250-60-2LL-S25,Yes,208,25
+,2,Enphase S230-60-LL-2-US,Enphase,S230-60-LL-2-US,Yes,,25
+,2,Enphase S230-60-LL-5-US,Enphase,S230-60-LL-5-US,Yes,,25
+,2,Enphase S280-60-LL-2-US,Enphase,S280-60-LL-2-US,Yes,,25
+374,2,Fronius CL 44.4 DELTA,Fronius,CL 44.4 DELTA,No,,20
+1575,2,Fronius GALVO-1.5-1,Fronius,GALVO-1.5-1,No,240,20
+1576,2,Fronius GALVO-2.0-1,Fronius,GALVO-2.0-1,No,240,20
+1577,2,Fronius GALVO-2.5-1,Fronius,GALVO-2.5-1,No,240,20
+1578,2,Fronius GALVO-3.1-1,Fronius,GALVO-3.1-1,No,240,20
+,2,Fronius IG Plus Advanced 10.0-1,Fronius,IG Plus Advanced 10.0-1,No,,20
+,2,Fronius IG Plus Advanced 10.0-3 DELTA,Fronius,IG Plus Advanced 10.0-3 DELTA,No,,20
+,2,Fronius IG Plus Advanced 11.4-1,Fronius,IG Plus Advanced 11.4-1,No,,20
+,2,Fronius IG Plus Advanced 11.4-3 DELTA,Fronius,IG Plus Advanced 11.4-3 DELTA,No,,20
+,2,Fronius IG Plus Advanced 12.0-3 WYE277,Fronius,IG Plus Advanced 12.0-3 WYE277,No,,20
+,2,Fronius IG Plus Advanced 3.0-1,Fronius,IG Plus Advanced 3.0-1,No,,20
+,2,Fronius IG Plus Advanced 3.8-1,Fronius,IG Plus Advanced 3.8-1,No,,20
+,2,Fronius IG Plus Advanced 5.0-1,Fronius,IG Plus Advanced 5.0-1,No,,20
+,2,Fronius IG Plus Advanced 6.0-1,Fronius,IG Plus Advanced 6.0-1,No,,20
+,2,Fronius IG Plus Advanced 7.5-1,Fronius,IG Plus Advanced 7.5-1,No,,20
+275,2,Fronius IG-Plus-10.0-1-UNI,Fronius,IG-Plus-10.0-1-UNI,No,240,20
+277,2,Fronius IG-Plus-10.0-3-DELTA,Fronius,IG-Plus-10.0-3-DELTA,No,240,20
+276,2,Fronius IG-Plus-11.4-1-UNI,Fronius,IG-Plus-11.4-1-UNI,No,240,20
+278,2,Fronius IG-Plus-11.4-3-DELTA,Fronius,IG-Plus-11.4-3-DELTA,No,240,20
+279,2,Fronius IG-Plus-12.0-3-WYE277,Fronius,IG-Plus-12.0-3-WYE277,No,277,20
+270,2,Fronius IG-Plus-3.0-1-UNI,Fronius,IG-Plus-3.0-1-UNI,No,240,20
+271,2,Fronius IG-Plus-3.8-1-UNI,Fronius,IG-Plus-3.8-1-UNI,No,240,20
+272,2,Fronius IG-Plus-5.0-1-UNI,Fronius,IG-Plus-5.0-1-UNI,No,240,20
+273,2,Fronius IG-Plus-6.0-1-UNI,Fronius,IG-Plus-6.0-1-UNI,No,240,20
+274,2,Fronius IG-Plus-7.5-1-UNI,Fronius,IG-Plus-7.5-1-UNI,No,240,20
+,2,Fronius Primo 10.0-1 208-240,Fronius,Primo 10.0-1 208-240,No,,20
+,2,Fronius Primo 11.4-1 208-240,Fronius,Primo 11.4-1 208-240,No,,20
+,2,Fronius Primo 12.5-1 208-240,Fronius,Primo 12.5-1 208-240,No,,20
+,2,Fronius Primo 15.0-1 208-240,Fronius,Primo 15.0-1 208-240,No,,20
+,2,Fronius Primo 3.8-1 240,Fronius,Primo 3.8-1 240,No,,20
+,2,Fronius Primo 5.0-1 240,Fronius,Primo 5.0-1 240,No,,20
+,2,Fronius Primo 6.0-1 240,Fronius,Primo 6.0-1 240,No,,20
+,2,Fronius Primo 7.6-1 240,Fronius,Primo 7.6-1 240,No,,20
+,2,Fronius Primo 8.2-1 240,Fronius,Primo 8.2-1 240,No,,20
+1688,2,Fronius Primo-3.8-1 208,Fronius,Primo-3.8-1 208,No,240,20
+1689,2,Fronius Primo-5.0-1 208,Fronius,Primo-5.0-1 208,No,240,20
+1690,2,Fronius Primo-6.0-1 208,Fronius,Primo-6.0-1 208,No,240,20
+1691,2,Fronius Primo-7.6-1 208,Fronius,Primo-7.6-1 208,No,240,20
+1692,2,Fronius Primo-8.2-1 208,Fronius,Primo-8.2-1 208,No,240,20
+,2,Fronius Symo 10.0-3 208,Fronius,Symo 10.0-3 208,No,,20
+,2,Fronius Symo 12.0-3 208,Fronius,Symo 12.0-3 208,No,,20
+,2,Fronius Symo 15.0-3 208,Fronius,Symo 15.0-3 208,No,,20
+1693,2,Fronius Symo-10.0-3 240,Fronius,Symo-10.0-3 240,No,240,20
+1695,2,Fronius Symo-10.0-3 480,Fronius,Symo-10.0-3 480,No,480,20
+1694,2,Fronius Symo-12.0-3 240,Fronius,Symo-12.0-3 240,No,240,20
+1696,2,Fronius Symo-12.5-3 480,Fronius,Symo-12.5-3 480,No,480,20
+1697,2,Fronius Symo-15.0-3 480,Fronius,Symo-15.0-3 480,No,480,20
+1698,2,Fronius Symo-17.5-3 480,Fronius,Symo-17.5-3 480,No,480,20
+1699,2,Fronius Symo-20.0-3 480,Fronius,Symo-20.0-3 480,No,480,20
+1700,2,Fronius Symo-22.7-3 480,Fronius,Symo-22.7-3 480,No,480,20
+1701,2,Fronius Symo-24.0-3 480,Fronius,Symo-24.0-3 480,No,480,20
+,2,Huawei SUN2000-22KTL,Huawei,SUN2000-22KTL,No,,20
+,2,Huawei SUN2000-25KTL,Huawei,SUN2000-25KTL,No,,20
+,2,Huawei SUN2000-30KTL,Huawei,SUN2000-30KTL,No,,20
+,2,Huawei SUN2000-36KTL,Huawei,SUN2000-36KTL,No,,20
+,2,Huawei SUN2000-42KTL,Huawei,SUN2000-42KTL,No,,20
+,2,Huawei SUN2000-45KTL,Huawei,SUN2000-45KTL,No,,20
+1715,2,KACO blueplanet 1000 TL3,KACO,blueplanet 1000 TL3,Yes,37,20
+,2,KACO blueplanet 20.0 TL3 INT,KACO,blueplanet 20.0 TL3 INT,No,,20
+1702,2,KACO blueplanet 3.0 TL1,KACO,blueplanet 3.0 TL1,No,230,20
+1703,2,KACO blueplanet 3.5 TL1,KACO,blueplanet 3.5 TL1,No,230,20
+1704,2,KACO blueplanet 3.7 TL1,KACO,blueplanet 3.7 TL1,No,230,20
+1705,2,KACO blueplanet 4.0 TL1,KACO,blueplanet 4.0 TL1,No,230,20
+1706,2,KACO blueplanet 4.6 TL1,KACO,blueplanet 4.6 TL1,No,230,20
+1707,2,KACO blueplanet 5.0 TL1,KACO,blueplanet 5.0 TL1,No,158,20
+1708,2,KACO blueplanet 5.0 TL3,KACO,blueplanet 5.0 TL3,No,158,20
+1712,2,KACO blueplanet 50.0 TL3,KACO,blueplanet 50.0 TL3,No,370,20
+,2,KACO blueplanet 50.0 TL3 INT,KACO,blueplanet 50.0 TL3 INT,No,,20
+1709,2,KACO blueplanet 6.5 TL3,KACO,blueplanet 6.5 TL3,No,158,20
+1710,2,KACO blueplanet 7.5 TL3,KACO,blueplanet 7.5 TL3,No,158,20
+1713,2,KACO blueplanet 750 TL3,KACO,blueplanet 750 TL3,No,370,20
+1714,2,KACO blueplanet 875 TL3,KACO,blueplanet 875 TL3,No,370,20
+1711,2,KACO blueplanet 9.0 TL3,KACO,blueplanet 9.0 TL3,No,230,20
+1806,2,KACO blueplanet ultraverter 250,KACO,blueplanet ultraverter 250,Yes,,20
+1716,2,KACO IPS 1.1,KACO,IPS 1.1,No,550,20
+1717,2,KACO IPS 2.0,KACO,IPS 2.0,No,500,20
+1718,2,KACO Powador 12.0 TL3,KACO,Powador 12.0 TL3,No,158,20
+1719,2,KACO Powador 14.0 TL3,KACO,Powador 14.0 TL3,No,158,20
+1720,2,KACO Powador 18.0 TL3,KACO,Powador 18.0 TL3,No,158,20
+1721,2,KACO Powador 20.0 TL3,KACO,Powador 20.0 TL3,No,158,20
+1722,2,KACO Powador 2002,KACO,Powador 2002,No,98.75,20
+1727,2,KACO Powador 30.0 TL3,KACO,Powador 30.0 TL3,No,158,20
+1723,2,KACO Powador 3002,KACO,Powador 3002,No,158,20
+1733,2,KACO Powador 3200,KACO,Powador 3200,No,230,20
+1728,2,KACO Powador 33.0 TL3,KACO,Powador 33.0 TL3,No,158,20
+1729,2,KACO Powador 36.0 TL3,KACO,Powador 36.0 TL3,No,158,20
+1739,2,KACO Powador 36.0 TL3 M1,KACO,Powador 36.0 TL3 M1,No,230,20
+1730,2,KACO Powador 39.0 TL3,KACO,Powador 39.0 TL3,No,158,20
+1740,2,KACO Powador 39.0 TL3 M1,KACO,Powador 39.0 TL3 M1,No,230,20
+1731,2,KACO Powador 40.0 TL3,KACO,Powador 40.0 TL3,No,158,20
+1734,2,KACO Powador 4200,KACO,Powador 4200,No,230,20
+1724,2,KACO Powador 4202,KACO,Powador 4202,No,158,20
+1735,2,KACO Powador 4400,KACO,Powador 4400,No,230,20
+1741,2,KACO Powador 48.0 TL3 Park,KACO,Powador 48.0 TL3 Park,No,277,20
+1725,2,KACO Powador 5002,KACO,Powador 5002,No,158,20
+1736,2,KACO Powador 5300,KACO,Powador 5300,No,230,20
+1737,2,KACO Powador 5500,KACO,Powador 5500,No,230,20
+1732,2,KACO Powador 60.0 TL3,KACO,Powador 60.0 TL3,No,158,20
+1726,2,KACO Powador 6002,KACO,Powador 6002,No,158,20
+1738,2,KACO Powador 6600,KACO,Powador 6600,No,230,20
+1742,2,KACO Powador 72.0 TL3 Park,KACO,Powador 72.0 TL3 Park,No,277,20
+1743,2,KACO Powador XP500-HV TL,KACO,Powador XP500-HV TL,No,370,20
+1745,2,KACO Powador XP500-HV TL Outdoor,KACO,Powador XP500-HV TL Outdoor,No,370,20
+1744,2,KACO Powador XP550-HV TL,KACO,Powador XP550-HV TL,No,370,20
+1746,2,KACO Powador XP550-HV TL Outdoor,KACO,Powador XP550-HV TL Outdoor,No,370,20
+1748,2,Nextronex Ray-Max ,Nextronex,Ray-Max ,No,480,20
+1747,2,Nextronex Ray-Max 2,Nextronex,Ray-Max 2,No,462,20
+1638,2,Nextronex Ray-Max-1000V,Nextronex,Ray-Max-1000V,No,,20
+1762,2,Satcon Equinox 500 kW UL,Satcon,Equinox 500 kW UL,No,480,20
+1761,2,Satcon Equinox 625 kW,Satcon,Equinox 625 kW,No,320,20
+1753,2,Satcon Powergate Plus 1 MW UL,Satcon,Powergate Plus 1 MW UL,No,265,20
+1749,2,Satcon Powergate Plus 100 kW UL,Satcon,Powergate Plus 100 kW UL,No,600,20
+1750,2,Satcon Powergate Plus 110 kW S-Type UL,Satcon,Powergate Plus 110 kW S-Type UL,No,480,20
+1751,2,Satcon Powergate Plus 135 kW H-Type,Satcon,Powergate Plus 135 kW H-Type,No,480,20
+1752,2,Satcon Powergate Plus 135 kW UL,Satcon,Powergate Plus 135 kW UL,No,480,20
+1754,2,Satcon Powergate Plus 210 kW S-Type UL,Satcon,Powergate Plus 210 kW S-Type UL,No,480,20
+1755,2,Satcon Powergate Plus 250 kW UL,Satcon,Powergate Plus 250 kW UL,No,600,20
+1756,2,Satcon Powergate Plus 30 kW UL,Satcon,Powergate Plus 30 kW UL,No,480,20
+1757,2,Satcon Powergate Plus 375 kW UL,Satcon,Powergate Plus 375 kW UL,No,480,20
+1760,2,Satcon Powergate Plus 50 kW S-Type UL,Satcon,Powergate Plus 50 kW S-Type UL,No,480,20
+1759,2,Satcon Powergate Plus 50 kW UL,Satcon,Powergate Plus 50 kW UL,No,480,20
+1758,2,Satcon Powergate Plus 500 kW UL,Satcon,Powergate Plus 500 kW UL,No,480,20
+1763,2,Satcon Powergate Plus 75 kW UL,Satcon,Powergate Plus 75 kW UL,No,480,20
+1773,2,Schneider Electric CL20000 E,Schneider Electric,CL20000 E,No,400,10
+1774,2,Schneider Electric CL25000 E,Schneider Electric,CL25000 E,No,400,10
+,2,Schneider Electric GT250,Schneider Electric,GT250,No,,5
+,2,Schneider Electric GT500,Schneider Electric,GT500,No,,5
+,2,Schneider Electric GT500 MVX,Schneider Electric,GT500 MVX,No,,5
+1764,2,Schneider Electric RL 3000 E,Schneider Electric,RL 3000 E,No,230,10
+,2,Schneider Electric RL 3000 E,Schneider Electric,RL 3000 E,No,230,10
+1765,2,Schneider Electric RL 4000 E,Schneider Electric,RL 4000 E,No,230,10
+,2,Schneider Electric RL 4000 E,Schneider Electric,RL 4000 E,No,230,10
+1766,2,Schneider Electric RL 5000 E,Schneider Electric,RL 5000 E,No,230,10
+,2,Schneider Electric RL 5000 E,Schneider Electric,RL 5000 E,No,230,10
+1767,2,Schneider Electric SW 2524 E,Schneider Electric,SW 2524 E,No,230,5
+1770,2,Schneider Electric SW 2524 NA,Schneider Electric,SW 2524 NA,No,240,5
+1768,2,Schneider Electric SW 4024 E,Schneider Electric,SW 4024 E,No,230,5
+1771,2,Schneider Electric SW 4024 NA,Schneider Electric,SW 4024 NA,No,240,5
+1769,2,Schneider Electric SW 4048 E,Schneider Electric,SW 4048 E,No,230,5
+1772,2,Schneider Electric SW 4048 NA,Schneider Electric,SW 4048 NA,No,240,5
+1600,2,Schneider Electric TL 10000 E,Schneider Electric,TL 10000 E,No,400,10
+1601,2,Schneider Electric TL 15000 E,Schneider Electric,TL 15000 E,No,400,10
+1602,2,Schneider Electric TL 20000 E,Schneider Electric,TL 20000 E,No,400,10
+1599,2,Schneider Electric TL 8000 E,Schneider Electric,TL 8000 E,No,400,10
+324,2,Schneider Electric TX 2800 NA,Schneider Electric,TX 2800 NA,No,240,10
+325,2,Schneider Electric TX 3300 NA,Schneider Electric,TX 3300 NA,No,240,10
+326,2,Schneider Electric TX 3800 NA,Schneider Electric,TX 3800 NA,No,240,10
+327,2,Schneider Electric TX 5000 NA,Schneider Electric,TX 5000 NA,No,240,10
+1583,2,Schneider Electric XC 540,Schneider Electric,XC 540,No,300,10
+1591,2,Schneider Electric XC 540-NA,Schneider Electric,XC 540-NA,No,300,10
+1586,2,Schneider Electric XC 630,Schneider Electric,XC 630,No,350,10
+1592,2,Schneider Electric XC 630-NA,Schneider Electric,XC 630-NA,No,350,10
+1588,2,Schneider Electric XC 680,Schneider Electric,XC 680,No,380,10
+1593,2,Schneider Electric XC 680-NA,Schneider Electric,XC 680-NA,No,380,10
+1775,2,Schneider Electric XW+ 5548 NA,Schneider Electric,XW+ 5548 NA,No,240,5
+1776,2,Schneider Electric XW+ 6848 NA,Schneider Electric,XW+ 6848 NA,No,240,5
+1777,2,Schneider Electric XW+ 7048 E,Schneider Electric,XW+ 7048 E,No,230,5
+1778,2,Schneider Electric XW+ 8548 E,Schneider Electric,XW+ 8548 E,No,230,5
+1779,2,Schneider Electric XW4024 120 240 60,Schneider Electric,XW4024 120 240 60,No,240,5
+1782,2,Schneider Electric XW4024 230 50,Schneider Electric,XW4024 230 50,No,230,5
+1780,2,Schneider Electric XW4548 120 240 60,Schneider Electric,XW4548 120 240 60,No,240,5
+1783,2,Schneider Electric XW4548 230 50,Schneider Electric,XW4548 230 50,No,230,5
+1781,2,Schneider Electric XW6048 120 240 60,Schneider Electric,XW6048 120 240 60,No,240,5
+1784,2,Schneider Electric XW6048 230 50,Schneider Electric,XW6048 230 50,No,230,5
+343,2,SMA America Sunny Boy 10000TL-US 208,SMA America,Sunny Boy 10000TL-US 208,No,208,20
+1490,2,SMA America Sunny Boy 10000TL-US 240,SMA America,Sunny Boy 10000TL-US 240,No,240,20
+1496,2,SMA America Sunny Boy 11000TL-US,SMA America,Sunny Boy 11000TL-US,No,240,20
+1533,2,SMA America Sunny Boy 240-US,SMA America,Sunny Boy 240-US,Yes,120,20
+,2,SMA America Sunny Boy 3.0-1 SO-US-40,SMA America,Sunny Boy 3.0-1 SO-US-40,No,,10
+,2,SMA America Sunny Boy 3.8-1 SO-US-40,SMA America,Sunny Boy 3.8-1 SO-US-40,No,,10
+1791,2,SMA America Sunny Boy 3000-US,SMA America,Sunny Boy 3000-US,No,240,20
+334,2,SMA America Sunny Boy 3000TL-US 208,SMA America,Sunny Boy 3000TL-US 208,No,208,20
+1524,2,SMA America Sunny Boy 3000TL-US 240,SMA America,Sunny Boy 3000TL-US 240,No,240,20
+,2,SMA America Sunny Boy 3400-US,SMA America,Sunny Boy 3400-US,No,,20
+335,2,SMA America Sunny Boy 3800-US,SMA America,Sunny Boy 3800-US,No,240,20
+1785,2,SMA America Sunny Boy 3800TL-US 208,SMA America,Sunny Boy 3800TL-US 208,No,208,20
+1786,2,SMA America Sunny Boy 3800TL-US 240,SMA America,Sunny Boy 3800TL-US 240,No,240,20
+1498,2,SMA America Sunny Boy 4000-US,SMA America,Sunny Boy 4000-US,No,240,20
+336,2,SMA America Sunny Boy 4000TL-US 208,SMA America,Sunny Boy 4000TL-US 208,No,208,20
+1525,2,SMA America Sunny Boy 4000TL-US 240,SMA America,Sunny Boy 4000TL-US 240,No,240,20
+,2,SMA America Sunny Boy 5.0-1 SO-US-40,SMA America,Sunny Boy 5.0-1 SO-US-40,No,,10
+1513,2,SMA America Sunny Boy 5000-US 208,SMA America,Sunny Boy 5000-US 208,No,208,20
+337,2,SMA America Sunny Boy 5000-US 240,SMA America,Sunny Boy 5000-US 240,No,240,20
+1514,2,SMA America Sunny Boy 5000-US 277,SMA America,Sunny Boy 5000-US 277,No,277,20
+1787,2,SMA America Sunny Boy 5000TL-US 208,SMA America,Sunny Boy 5000TL-US 208,No,208,20
+1788,2,SMA America Sunny Boy 5000TL-US 240,SMA America,Sunny Boy 5000TL-US 240,No,240,20
+,2,SMA America Sunny Boy 6.0-1 SO-US-40,SMA America,Sunny Boy 6.0-1 SO-US-40,No,,10
+1515,2,SMA America Sunny Boy 6000-US 208,SMA America,Sunny Boy 6000-US 208,No,208,20
+338,2,SMA America Sunny Boy 6000-US 240,SMA America,Sunny Boy 6000-US 240,No,240,20
+1516,2,SMA America Sunny Boy 6000-US 277,SMA America,Sunny Boy 6000-US 277,No,277,20
+1494,2,SMA America Sunny Boy 6000TL-US 208,SMA America,Sunny Boy 6000TL-US 208,No,208,20
+1495,2,SMA America Sunny Boy 6000TL-US 240,SMA America,Sunny Boy 6000TL-US 240,No,240,20
+,2,SMA America Sunny Boy 7.0-1 SO-US-40,SMA America,Sunny Boy 7.0-1 SO-US-40,No,,10
+,2,SMA America Sunny Boy 7.7-1 SO-US-40,SMA America,Sunny Boy 7.7-1 SO-US-40,No,,10
+1517,2,SMA America Sunny Boy 7000-US 208,SMA America,Sunny Boy 7000-US 208,No,208,20
+339,2,SMA America Sunny Boy 7000-US 240,SMA America,Sunny Boy 7000-US 240,No,240,20
+1519,2,SMA America Sunny Boy 7000-US 277,SMA America,Sunny Boy 7000-US 277,No,277,20
+1492,2,SMA America Sunny Boy 7000TL-US 208,SMA America,Sunny Boy 7000TL-US 208,No,208,20
+1493,2,SMA America Sunny Boy 7000TL-US 240,SMA America,Sunny Boy 7000TL-US 240,No,240,20
+1789,2,SMA America Sunny Boy 7700TL-US 208,SMA America,Sunny Boy 7700TL-US 208,No,208,20
+1790,2,SMA America Sunny Boy 7700TL-US 240,SMA America,Sunny Boy 7700TL-US 240,No,240,20
+340,2,SMA America Sunny Boy 8000-US 240,SMA America,Sunny Boy 8000-US 240,No,240,20
+1522,2,SMA America Sunny Boy 8000-US 277,SMA America,Sunny Boy 8000-US 277,No,277,20
+342,2,SMA America Sunny Boy 9000TL-US 208,SMA America,Sunny Boy 9000TL-US 208,No,208,20
+1489,2,SMA America Sunny Boy 9000TL-US 240,SMA America,Sunny Boy 9000TL-US 240,No,240,20
+,2,SMA America Sunny Central 1850-US,SMA America,Sunny Central 1850-US,No,,5
+,2,SMA America Sunny Central 2200-US,SMA America,Sunny Central 2200-US,No,,5
+,2,SMA America Sunny Central 2500,SMA America,Sunny Central 2500,No,,5
+1567,2,SMA America Sunny Central 500CP XT,SMA America,Sunny Central 500CP XT,No,270,5
+1559,2,SMA America Sunny Central 500CP-US,SMA America,Sunny Central 500CP-US,No,270,5
+1566,2,SMA America Sunny Central 500CP-US 600V,SMA America,Sunny Central 500CP-US 600V,No,220,5
+1568,2,SMA America Sunny Central 630CP XT,SMA America,Sunny Central 630CP XT,No,315,5
+1560,2,SMA America Sunny Central 630CP-US,SMA America,Sunny Central 630CP-US,No,315,5
+1792,2,SMA America Sunny Central 720CP XT,SMA America,Sunny Central 720CP XT,No,324,5
+1561,2,SMA America Sunny Central 720CP-US,SMA America,Sunny Central 720CP-US,No,324,5
+1562,2,SMA America Sunny Central 750CP-US,SMA America,Sunny Central 750CP-US,No,342,5
+1793,2,SMA America Sunny Central 760CP XT,SMA America,Sunny Central 760CP XT,No,342,5
+1563,2,SMA America Sunny Central 800CP-US,SMA America,Sunny Central 800CP-US,No,360,5
+1564,2,SMA America Sunny Central 850CP-US,SMA America,Sunny Central 850CP-US,No,386,5
+1565,2,SMA America Sunny Central 900CP-US,SMA America,Sunny Central 900CP-US,No,405,5
+,2,SMA America Sunny Tripower 10000TL-20,SMA America,Sunny Tripower 10000TL-20,No,,10
+1547,2,SMA America Sunny Tripower 12000TL-US,SMA America,Sunny Tripower 12000TL-US,No,480,20
+1548,2,SMA America Sunny Tripower 15000TL-US,SMA America,Sunny Tripower 15000TL-US,No,480,20
+,2,SMA America Sunny Tripower 17000TL,SMA America,Sunny Tripower 17000TL,No,,10
+1549,2,SMA America Sunny Tripower 20000TL-US,SMA America,Sunny Tripower 20000TL-US,No,480,20
+1543,2,SMA America Sunny Tripower 24000TL-US,SMA America,Sunny Tripower 24000TL-US,No,480,20
+,2,SMA America Sunny Tripower 25000-TL-30,SMA America,Sunny Tripower 25000-TL-30,No,,10
+,2,SMA America Sunny Tripower 30000TL-US,SMA America,Sunny Tripower 30000TL-US,No,,10
+,2,SMA America Sunny Tripower 50-US-40,SMA America,Sunny Tripower 50-US-40,No,,20
+,2,SMA America Sunny Tripower 5000TL-20,SMA America,Sunny Tripower 5000TL-20,No,,10
+1794,2,SMA America Sunny Tripower 60,SMA America,Sunny Tripower 60,No,480,10
+,2,SMA America Sunny Tripower 6000TL-20,SMA America,Sunny Tripower 6000TL-20,No,,10
+,2,SMA America Sunny Tripower 75000TL-20,SMA America,Sunny Tripower 75000TL-20,No,,10
+,2,SMA America Sunny Tripower 8000TL-20,SMA America,Sunny Tripower 8000TL-20,No,,10
+,2,SMA America Sunny Tripower 9000TL-20,SMA America,Sunny Tripower 9000TL-20,No,,10
+1796,2,SolarEdge SE10000A-US 208,SolarEdge,SE10000A-US 208,No,208,25
+1797,2,SolarEdge SE10000A-US 2240,SolarEdge,SE10000A-US 2240,No,240,25
+1554,2,SolarEdge SE10KUS,SolarEdge,SE10KUS,No,480,25
+1545,2,SolarEdge SE11400A-US,SolarEdge,SE11400A-US,No,240,25
+1799,2,SolarEdge SE14.4KUS,SolarEdge,SE14.4KUS,No,208,25
+1557,2,SolarEdge SE20KUS,SolarEdge,SE20KUS,No,480,25
+344,2,SolarEdge SE3000A-US,SolarEdge,SE3000A-US,No,240,25
+,2,SolarEdge SE3000H-US-SE7600H-US,SolarEdge,SE3000H-US-SE7600H-US,No,,25
+1798,2,SolarEdge SE33.3KUS,SolarEdge,SE33.3KUS,No,480,25
+345,2,SolarEdge SE3800A-US,SolarEdge,SE3800A-US,No,240,25
+346,2,SolarEdge SE5000A-US,SolarEdge,SE5000A-US,No,240,25
+347,2,SolarEdge SE6000A-US,SolarEdge,SE6000A-US,No,240,25
+348,2,SolarEdge SE7600A-US,SolarEdge,SE7600A-US,No,240,25
+1551,2,SolarEdge SE9KUS,SolarEdge,SE9KUS,No,208,25
+,2,Sungrow G500KTL,Sungrow,SG500KTL,No,,20
+,2,Sungrow G630KTL,Sungrow,SG630KTL,No,,20
+,2,Sungrow SG1000KHV,Sungrow,SG1000KHV,No,,20
+,2,Sungrow SG1000KS,Sungrow,SG1000KS,No,,20
+,2,Sungrow SG1000TS,Sungrow,SG1000TS,No,,20
+,2,Sungrow SG100K3,Sungrow,SG100K3,No,,20
+,2,Sungrow SG100KC,Sungrow,SG100KC,No,,20
+,2,Sungrow SG100KLV,Sungrow,SG100KLV,No,,20
+,2,Sungrow SG10K3,Sungrow,SG10K3,No,,20
+,2,Sungrow SG10KTL,Sungrow,SG10KTL,No,,20
+,2,Sungrow SG1260KS,Sungrow,SG1260KS,No,,20
+,2,Sungrow SG12KTL,Sungrow,SG12KTL,No,,20
+,2,Sungrow SG15KTL,Sungrow,SG15KTL,No,,20
+,2,Sungrow SG1K5TL,Sungrow,SG1K5TL,No,,20
+,2,Sungrow SG20KTL,Sungrow,SG20KTL,No,,20
+,2,Sungrow SG250K3,Sungrow,SG250K3,No,,20
+,2,Sungrow SG250KC,Sungrow,SG250KC,No,,20
+,2,Sungrow SG250KLV,Sungrow,SG250KLV,No,,20
+,2,Sungrow SG2K5TL,Sungrow,SG2K5TL,No,,20
+,2,Sungrow SG30K3,Sungrow,SG30K3,No,,20
+,2,Sungrow SG30KTL,Sungrow,SG30KTL,No,,20
+,2,Sungrow SG330KTL,Sungrow,SG330KTL,No,,20
+,2,Sungrow SG3K,Sungrow,SG3K,No,,20
+,2,Sungrow SG3KTL,Sungrow,SG3KTL,No,,20
+,2,Sungrow SG4KTL,Sungrow,SG4KTL,No,,20
+,2,Sungrow SG500K3,Sungrow,SG500K3,No,,20
+,2,Sungrow SG500MX,Sungrow,SG500MX,No,,20
+,2,Sungrow SG50K3,Sungrow,SG50K3,No,,20
+,2,Sungrow SG50KC,Sungrow,SG50KC,No,,20
+,2,Sungrow SG5K,Sungrow,SG5K,No,,20
+,2,Sungrow SG5KTL,Sungrow,SG5KTL,No,,20
+2020,2,SunGrow SG60KU-M,SunGrow,SG60KU-M,No,,20
+,2,Sungrow SG630MX,Sungrow,SG630MX,No,,20
+,2,Sungrow SG6K,Sungrow,SG6K,No,,20
+354,2,Yaskawa Solectria PVI 100KW,Yaskawa Solectria,PVI 100KW,No,208,20
+,2,Yaskawa Solectria PVI 10KW,Yaskawa Solectria,PVI 10KW,No,,5
+,2,Yaskawa Solectria PVI 13KW,Yaskawa Solectria,PVI 13KW,No,,5
+356,2,Yaskawa Solectria PVI 14TL,Yaskawa Solectria,PVI 14TL,No,208,20
+,2,Yaskawa Solectria PVI 15KW,Yaskawa Solectria,PVI 15KW,No,,5
+,2,Yaskawa Solectria PVI 1800,Yaskawa Solectria,PVI 1800,No,,5
+1488,2,Yaskawa Solectria PVI 20TL,Yaskawa Solectria,PVI 20TL,No,480,20
+352,2,Yaskawa Solectria PVI 23TL,Yaskawa Solectria,PVI 23TL,No,480,20
+,2,Yaskawa Solectria PVI 2500,Yaskawa Solectria,PVI 2500,No,,5
+358,2,Yaskawa Solectria PVI 28TL,Yaskawa Solectria,PVI 28TL,No,480,20
+,2,Yaskawa Solectria PVI 3000S,Yaskawa Solectria,PVI 3000S,No,,10
+1800,2,Yaskawa Solectria PVI 36TL,Yaskawa Solectria,PVI 36TL,No,480,20
+351,2,Yaskawa Solectria PVI 3800TL,Yaskawa Solectria,PVI 3800TL,No,280,10
+,2,Yaskawa Solectria PVI 4000S,Yaskawa Solectria,PVI 4000S,No,,10
+,2,Yaskawa Solectria PVI 5000S,Yaskawa Solectria,PVI 5000S,No,,10
+417,2,Yaskawa Solectria PVI 50KW,Yaskawa Solectria,PVI 50KW,No,208,20
+,2,Yaskawa Solectria PVI 50TL,Yaskawa Solectria,PVI 50TL,No,,20
+353,2,Yaskawa Solectria PVI 5200TL,Yaskawa Solectria,PVI 5200TL,No,280,10
+,2,Yaskawa Solectria PVI 5300,Yaskawa Solectria,PVI 5300,No,,10
+416,2,Yaskawa Solectria PVI 60KW,Yaskawa Solectria,PVI 60KW,No,208,20
+,2,Yaskawa Solectria PVI 60TL,Yaskawa Solectria,PVI 60TL,No,,10
+,2,Yaskawa Solectria PVI 6500,Yaskawa Solectria,PVI 6500,No,,10
+355,2,Yaskawa Solectria PVI 6600TL,Yaskawa Solectria,PVI 6600TL,No,280,10
+,2,Yaskawa Solectria PVI 7500,Yaskawa Solectria,PVI 7500,No,,10
+418,2,Yaskawa Solectria PVI 75KW,Yaskawa Solectria,PVI 75KW,No,208,20
+357,2,Yaskawa Solectria PVI 7600TL,Yaskawa Solectria,PVI 7600TL,No,280,10
+359,2,Yaskawa Solectria PVI 85KW,Yaskawa Solectria,PVI 85KW,No,208,20
+,2,Yaskawa Solectria SGI 225,Yaskawa Solectria,SGI 225,No,,20
+,2,Yaskawa Solectria SGI 250,Yaskawa Solectria,SGI 250,No,,20
+,2,Yaskawa Solectria SGI 266,Yaskawa Solectria,SGI 266,No,,20
+,2,Yaskawa Solectria SGI 300,Yaskawa Solectria,SGI 300,No,,20
+,2,Yaskawa Solectria SGI 500,Yaskawa Solectria,SGI 500,No,,20
+,2,Yaskawa Solectria SGI 500PE,Yaskawa Solectria,SGI 500PE,No,,20
+,2,Yaskawa Solectria SGI 500XT,Yaskawa Solectria,SGI 500XT,No,,20
+1801,2,Yaskawa Solectria SGI 500XTM,Yaskawa Solectria,SGI 500XTM,No,380,20
+1802,2,Yaskawa Solectria SGI 750XTM,Yaskawa Solectria,SGI 750XTM,No,380,20
+419,2,Yaskawa Solectria SGI225,Yaskawa Solectria,SGI225,No,480,20
+420,2,Yaskawa Solectria SGI250,Yaskawa Solectria,SGI250,No,480,20
+421,2,Yaskawa Solectria SGI266,Yaskawa Solectria,SGI266,No,480,20
+422,2,Yaskawa Solectria SGI300,Yaskawa Solectria,SGI300,No,480,20
+423,2,Yaskawa Solectria SGI500,Yaskawa Solectria,SGI500,No,480,20
+1542,2,Yaskawa Solectria SGI500PE,Yaskawa Solectria,SGI500PE,No,480,20

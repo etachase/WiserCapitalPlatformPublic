@@ -1,0 +1,1041 @@
+id,asset_type_id,name,manufacturer,model,Cell Type,Power Wattage,Power output tolerance ():,Connector type:,Warranty Type,Phase 1 Years,Phase 1 Percent,Phase 2 Years,Phase 2 Percent,Length (in.),Width (in.),Depth (in.),Weight (lbs.)
+,5,Astronergy ASM6610P 250W,Astronergy,ASM6610P 250W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM6610P 255W,Astronergy,ASM6610P 255W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM6610P 260W,Astronergy,ASM6610P 260W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM6610P 265W,Astronergy,ASM6610P 265W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM6610P 270W,Astronergy,ASM6610P 270W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM6610P 275W,Astronergy,ASM6610P 275W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66610P(BF) 240W,Astronergy,ASM66610P(BF) 240W,,,,,Linear,25,80.2,,,,,,
+,5,Astronergy ASM66610P(BF) 245W,Astronergy,ASM66610P(BF) 245W,,,,,Linear,25,80.2,,,,,,
+,5,Astronergy ASM66610P(BF) 250W,Astronergy,ASM66610P(BF) 250W,,,,,Linear,25,80.2,,,,,,
+,5,Astronergy ASM66610P(BF) 255W,Astronergy,ASM66610P(BF) 255W,,,,,Linear,25,80.2,,,,,,
+,5,Astronergy ASM66610P(BF) 260W,Astronergy,ASM66610P(BF) 260W,,,,,Linear,25,80.2,,,,,,
+,5,Astronergy ASM66610P(BF) 265W,Astronergy,ASM66610P(BF) 265W,,,,,Linear,25,80.2,,,,,,
+,5,Astronergy ASM66610P(BL) 250W,Astronergy,ASM66610P(BL) 250W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66610P(BL) 255W,Astronergy,ASM66610P(BL) 255W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66610P(BL) 260W,Astronergy,ASM66610P(BL) 260W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66610P(BL) 265W,Astronergy,ASM66610P(BL) 265W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66610P(BL) 270W,Astronergy,ASM66610P(BL) 270W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66610P(BL) 275W,Astronergy,ASM66610P(BL) 275W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66612P 305W,Astronergy,ASM66612P 305W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66612P 310W,Astronergy,ASM66612P 310W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66612P 315W,Astronergy,ASM66612P 315W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66612P 320W,Astronergy,ASM66612P 320W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy ASM66612P 325W,Astronergy,ASM66612P 325W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy DIAMOND CHSM6612P 305W,Astronergy,DIAMOND CHSM6612P 305W,,,,,Linear,30,83,,,,,,
+,5,Astronergy DIAMOND CHSM6612P 305W HV,Astronergy,DIAMOND CHSM6612P 305W HV,,,,,Linear,30,83,,,,,,
+,5,Astronergy DIAMOND CHSM6612P 310W,Astronergy,DIAMOND CHSM6612P 310W,,,,,Linear,30,83,,,,,,
+,5,Astronergy DIAMOND CHSM6612P 310W HV,Astronergy,DIAMOND CHSM6612P 310W HV,,,,,Linear,30,83,,,,,,
+,5,Astronergy DIAMOND CHSM6612P 315W,Astronergy,DIAMOND CHSM6612P 315W,,,,,Linear,30,83,,,,,,
+,5,Astronergy DIAMOND CHSM6612P 315W HV,Astronergy,DIAMOND CHSM6612P 315W HV,,,,,Linear,30,83,,,,,,
+,5,Astronergy DIAMOND CHSM6612P 320W,Astronergy,DIAMOND CHSM6612P 320W,,,,,Linear,30,83,,,,,,
+,5,Astronergy DIAMOND CHSM6612P 320W HV,Astronergy,DIAMOND CHSM6612P 320W HV,,,,,Linear,30,83,,,,,,
+,5,Astronergy DIAMOND CHSM6612P 325W,Astronergy,DIAMOND CHSM6612P 325W,,,,,Linear,30,83,,,,,,
+,5,Astronergy DIAMOND CHSM6612P 325W HV,Astronergy,DIAMOND CHSM6612P 325W HV,,,,,Linear,30,83,,,,,,
+,5,Astronergy VIOLIN CHSM6610P 250W,Astronergy,VIOLIN CHSM6610P 250W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P 250W HV,Astronergy,VIOLIN CHSM6610P 250W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P 255W,Astronergy,VIOLIN CHSM6610P 255W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P 255W HV,Astronergy,VIOLIN CHSM6610P 255W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P 260W,Astronergy,VIOLIN CHSM6610P 260W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P 260W HV,Astronergy,VIOLIN CHSM6610P 260W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P 265W,Astronergy,VIOLIN CHSM6610P 265W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P 265W HV,Astronergy,VIOLIN CHSM6610P 265W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P 270W,Astronergy,VIOLIN CHSM6610P 270W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P 270W HV,Astronergy,VIOLIN CHSM6610P 270W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN ICHSM6610P Baseline 250W,Astronergy,VIOLIN ICHSM6610P Baseline 250W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P Baseline 250W HV,Astronergy,VIOLIN CHSM6610P Baseline 250W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P Baseline 255W,Astronergy,VIOLIN CHSM6610P Baseline 255W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P Baseline 255W HV,Astronergy,VIOLIN CHSM6610P Baseline 255W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P Baseline 260W,Astronergy,VIOLIN CHSM6610P Baseline 260W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P Baseline 260W HV,Astronergy,VIOLIN CHSM6610P Baseline 260W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P Baseline 265W,Astronergy,VIOLIN CHSM6610P Baseline 265W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P Baseline 265W HV,Astronergy,VIOLIN CHSM6610P Baseline 265W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P Baseline 270W,Astronergy,VIOLIN CHSM6610P Baseline 270W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P Baseline 270W HV,Astronergy,VIOLIN CHSM6610P Baseline 270W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P(BL) 250W,Astronergy,VIOLIN CHSM6610P(BL) 250W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P(BL) 255W,Astronergy,VIOLIN CHSM6610P(BL) 255W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P(BL) 260W,Astronergy,VIOLIN CHSM6610P(BL) 260W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P(BL) 265W,Astronergy,VIOLIN CHSM6610P(BL) 265W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6610P(BL) 270W,Astronergy,VIOLIN CHSM6610P(BL) 270W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P 315W,Astronergy,VIOLIN CHSM6612P 315W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P 315W HV,Astronergy,VIOLIN CHSM6612P 315W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P 320W,Astronergy,VIOLIN CHSM6612P 320W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P 320W HV,Astronergy,VIOLIN CHSM6612P 320W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P 325W,Astronergy,VIOLIN CHSM6612P 325W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P 325W HV,Astronergy,VIOLIN CHSM6612P 325W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P 330W,Astronergy,VIOLIN CHSM6612P 330W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P 330W HV,Astronergy,VIOLIN CHSM6612P 330W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P 335W,Astronergy,VIOLIN CHSM6612P 335W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P 335W HV,Astronergy,VIOLIN CHSM6612P 335W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P Baseline 305W,Astronergy,VIOLIN CHSM6612P Baseline 305W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P Baseline 305W HV,Astronergy,VIOLIN CHSM6612P Baseline 305W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P Baseline 310W,Astronergy,VIOLIN CHSM6612P Baseline 310W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P Baseline 310W HV,Astronergy,VIOLIN CHSM6612P Baseline 310W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P Baseline 315W,Astronergy,VIOLIN CHSM6612P Baseline 315W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P Baseline 315W HV,Astronergy,VIOLIN CHSM6612P Baseline 315W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P Baseline 320W,Astronergy,VIOLIN CHSM6612P Baseline 320W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P Baseline 320W HV,Astronergy,VIOLIN CHSM6612P Baseline 320W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P Baseline 325W,Astronergy,VIOLIN CHSM6612P Baseline 325W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN CHSM6612P Baseline 325W HV,Astronergy,VIOLIN CHSM6612P Baseline 325W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P 260W,Astronergy,VIOLIN II CHSM6610P 260W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P 260W HV,Astronergy,VIOLIN II CHSM6610P 260W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P 265W,Astronergy,VIOLIN II CHSM6610P 265W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P 265W HV,Astronergy,VIOLIN II CHSM6610P 265W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P 270W,Astronergy,VIOLIN II CHSM6610P 270W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P 270W HV,Astronergy,VIOLIN II CHSM6610P 270W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P 275W,Astronergy,VIOLIN II CHSM6610P 275W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P 275W HV,Astronergy,VIOLIN II CHSM6610P 275W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P 280W,Astronergy,VIOLIN II CHSM6610P 280W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P 280W HV,Astronergy,VIOLIN II CHSM6610P 280W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P(DG) 260W,Astronergy,VIOLIN II CHSM6610P(DG) 260W,,,,,Linear,25,83,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P(DG) 265W,Astronergy,VIOLIN II CHSM6610P(DG) 265W,,,,,Linear,25,83,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P(DG) 270W,Astronergy,VIOLIN II CHSM6610P(DG) 270W,,,,,Linear,25,83,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P(DG) 275W,Astronergy,VIOLIN II CHSM6610P(DG) 275W,,,,,Linear,25,83,,,,,,
+,5,Astronergy VIOLIN II CHSM6610P(DG) 280W,Astronergy,VIOLIN II CHSM6610P(DG) 280W,,,,,Linear,25,83,,,,,,
+,5,Astronergy VIOLIN II CHSM6612P 305W,Astronergy,VIOLIN II CHSM6612P 305W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6612P 305W HV,Astronergy,VIOLIN II CHSM6612P 305W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6612P 310W,Astronergy,VIOLIN II CHSM6612P 310W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6612P 310W HV,Astronergy,VIOLIN II CHSM6612P 310W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6612P 315W,Astronergy,VIOLIN II CHSM6612P 315W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6612P 315W HV,Astronergy,VIOLIN II CHSM6612P 315W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6612P 320W,Astronergy,VIOLIN II CHSM6612P 320W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6612P 320W HV,Astronergy,VIOLIN II CHSM6612P 320W HV,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6612P 325W,Astronergy,VIOLIN II CHSM6612P 325W,,,,,Linear,25,80.7,,,,,,
+,5,Astronergy VIOLIN II CHSM6612P 325W HV,Astronergy,VIOLIN II CHSM6612P 325W HV,,,,,Linear,25,80.7,,,,,,
+,5,BYD 120P6C-18,BYD,120P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 125P6C-18,BYD,125P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 130P6C-18,BYD,130P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 135P6C-18,BYD,135P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 140P6C-18,BYD,140P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 145P6C-18,BYD,145P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 150P6C-18,BYD,150P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 155P6C-18,BYD,155P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 160P6C-18,BYD,160P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 160P6C-24,BYD,160P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 165P6C-18,BYD,165P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 165P6C-24,BYD,165P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 170P6C-18,BYD,170P6C-18,,,,,Linear,25,80,,,,,,
+,5,BYD 170P6C-24,BYD,170P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 175P6C-24,BYD,175P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 180P6C-24,BYD,180P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 180P6C-27,BYD,180P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 185P6C-24,BYD,185P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 185P6C-27,BYD,185P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 190P6C-24,BYD,190P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 190P6C-27,BYD,190P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 195P6C-24,BYD,195P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 195P6C-27,BYD,195P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 200P6C-24,BYD,200P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 200P6C-27,BYD,200P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 200P6C-30,BYD,200P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 205P6C-24,BYD,205P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 205P6C-27,BYD,205P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 205P6C-30,BYD,205P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 210P6C-24,BYD,210P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 210P6C-27,BYD,210P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 210P6C-30,BYD,210P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 215P6C-24,BYD,215P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 215P6C-27,BYD,215P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 215P6C-30,BYD,215P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 220P6C-24,BYD,220P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 220P6C-27,BYD,220P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 220P6C-30,BYD,220P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 225P6C-24,BYD,225P6C-24,,,,,Linear,25,80,,,,,,
+,5,BYD 225P6C-27,BYD,225P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 225P6C-30,BYD,225P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 230P6C-27,BYD,230P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 230P6C-30,BYD,230P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 235P6C-27,BYD,235P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 235P6C-30,BYD,235P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 240P6C-27,BYD,240P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 240P6C-30,BYD,240P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 240P6C-36,BYD,240P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 245P6C-27,BYD,245P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 245P6C-30,BYD,245P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 245P6C-36,BYD,245P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 250P6C-27,BYD,250P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 250P6C-30,BYD,250P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 250P6C-36,BYD,250P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 255P6C-27,BYD,255P6C-27,,,,,Linear,25,80,,,,,,
+,5,BYD 255P6C-30,BYD,255P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 255P6C-36,BYD,255P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 260P6C-30,BYD,260P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 260P6C-36,BYD,260P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 265P6C-30,BYD,265P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 265P6C-36,BYD,265P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 270P6C-30,BYD,270P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 270P6C-36,BYD,270P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 275P6C-30,BYD,275P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 275P6C-36,BYD,275P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 280P6C-30,BYD,280P6C-30,,,,,Linear,25,80,,,,,,
+,5,BYD 280P6C-36,BYD,280P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 285P6C-36,BYD,285P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 290P6C-36,BYD,290P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 295P6C-36,BYD,295P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 300P6C-36,BYD,300P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 305P6C-36,BYD,305P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 310P6C-36,BYD,310P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 315P6C-36,BYD,315P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 320P6C-36,BYD,320P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 325P6C-36,BYD,325P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 330P6C-36,BYD,330P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 335P6C-36,BYD,335P6C-36,,,,,Linear,25,80,,,,,,
+,5,BYD 340P6C-36,BYD,340P6C-36,,,,,Linear,25,80,,,,,,
+,5,Canadian Solar CS5A-M,Canadian Solar,CS5A-M,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS5A-MF (SunTuile),Canadian Solar,CS5A-MF (SunTuile),,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS5A-MX (NewEdge),Canadian Solar,CS5A-MX (NewEdge),,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS5A-P,Canadian Solar,CS5A-P,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS5AH-M,Canadian Solar,CS5AH-M,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS5P-M,Canadian Solar,CS5P-M,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS5P-P,Canadian Solar,CS5P-P,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS5T-M,Canadian Solar,CS5T-M,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6A-M,Canadian Solar,CS6A-M,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6A-MM (ELPS),Canadian Solar,CS6A-MM (ELPS),,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6A-P,Canadian Solar,CS6A-P,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6A-PE,Canadian Solar,CS6A-PE,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6A-PF (SunTuile),Canadian Solar,CS6A-PF (SunTuile),,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6A-PM (ELPS),Canadian Solar,CS6A-PM (ELPS),,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6A-PX (NewEdge),Canadian Solar,CS6A-PX (NewEdge),,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6C-M,Canadian Solar,CS6C-M,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6C-P,Canadian Solar,CS6C-P,,,,,Linear,25,80.7,,,,,,
+1808,5,Canadian Solar CS6K-260P-FG,Canadian Solar,CS6K-260P-FG,Poly-crystalline,260,5,MC4 or MC4 comparable,Linear,30,83,,,65,39.05,1.57,41.9
+1813,5,Canadian Solar CS6K-265M,Canadian Solar,CS6K-265M,Mono-crystalline,265,5,MC4 or MC4 comparable,Linear,25,80.2,,,62.2,31.81,1.38,31.9
+1809,5,Canadian Solar CS6K-265P-FG,Canadian Solar,CS6K-265P-FG,Poly-crystalline,265,5,MC4 or MC4 comparable,Linear,30,83,,,65,39.05,1.57,41.9
+1814,5,Canadian Solar CS6K-270M,Canadian Solar,CS6K-270M,Mono-crystalline,270,5,MC4 or MC4 comparable,Linear,25,80.2,,,62.2,31.81,1.38,31.9
+,5,Canadian Solar CS6K-M 270W All Black,Canadian Solar,CS6K-M 270W All Black,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-M 275W,Canadian Solar,CS6K-M 275W,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-M 275W 1500V,Canadian Solar,CS6K-M 275W 1500V,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-M 275W All Black,Canadian Solar,CS6K-M 275W All Black,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-M 280W,Canadian Solar,CS6K-M 280W,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-M 280W 1500V,Canadian Solar,CS6K-M 280W 1500V,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-M 280W All Black,Canadian Solar,CS6K-M 280W All Black,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-M 285W,Canadian Solar,CS6K-M 285W,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-M 285W 1500V,Canadian Solar,CS6K-M 285W 1500V,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-M-FG 275W,Canadian Solar,CS6K-M-FG 275W,,,,,Linear,30,81.5,,,,,,
+,5,Canadian Solar CS6K-M-FG 280W,Canadian Solar,CS6K-M-FG 280W,,,,,Linear,30,81.5,,,,,,
+,5,Canadian Solar CS6K-M-FG 285W,Canadian Solar,CS6K-M-FG 285W,,,,,Linear,30,81.5,,,,,,
+,5,Canadian Solar CS6K-MS (SuperPower) 285W All Black,Canadian Solar,CS6K-MS (SuperPower) 285W All Black,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-MS (SuperPower) 290W,Canadian Solar,CS6K-MS (SuperPower) 290W,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-MS (SuperPower) 290W All Black,Canadian Solar,CS6K-MS (SuperPower) 290W All Black,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-MS (SuperPower) 295W,Canadian Solar,CS6K-MS (SuperPower) 295W,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-MS (SuperPower) 295W All Black,Canadian Solar,CS6K-MS (SuperPower) 295W All Black,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-MS (SuperPower) 300W,Canadian Solar,CS6K-MS (SuperPower) 300W,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6K-P 260W,Canadian Solar,CS6K-P 260W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6K-P 265W,Canadian Solar,CS6K-P 265W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6K-P 265W 1500V,Canadian Solar,CS6K-P 265W 1500V,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6K-P 270W,Canadian Solar,CS6K-P 270W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6K-P 270W 1500V,Canadian Solar,CS6K-P 270W 1500V,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6K-P 275W,Canadian Solar,CS6K-P 275W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6K-P 275W 1500V,Canadian Solar,CS6K-P 275W 1500V,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6K-P-FG 260W,Canadian Solar,CS6K-P-FG 260W,,,,,Linear,30,83,,,,,,
+,5,Canadian Solar CS6K-P-FG 265W,Canadian Solar,CS6K-P-FG 265W,,,,,Linear,30,83,,,,,,
+,5,Canadian Solar CS6K-P-FG 270W,Canadian Solar,CS6K-P-FG 270W,,,,,Linear,30,83,,,,,,
+,5,Canadian Solar CS6K-P-FG 275W,Canadian Solar,CS6K-P-FG 275W,,,,,Linear,30,83,,,,,,
+,5,Canadian Solar CS6K-P-SD (Smart Module),Canadian Solar,CS6K-P-SD (Smart Module),,,,,Linear,25,80.7,,,,,,
+1454,5,Canadian Solar CS6P-255P,Canadian Solar,CS6P-255P,Poly-crystalline,255,5,MC4 or MC4 comparable,Linear,25,80.3,,,64.76,38.7,1.38,40.8
+1456,5,Canadian Solar CS6P-260M,Canadian Solar,CS6P-260M,Mono-crystalline,260,5,MC4 or MC4 comparable,Linear,25,80.2,,,64.76,38.7,1.38,40.8
+1810,5,Canadian Solar CS6P-260P,Canadian Solar,CS6P-260P,Poly-crystalline,260,5,MC4 or MC4 comparable,Linear,25,80.3,,,65,39.05,1.57,41.9
+1812,5,Canadian Solar CS6P-265M,Canadian Solar,CS6P-265M,Mono-crystalline,265,5,MC4 or MC4 comparable,Linear,25,80.2,,,62.2,31.81,1.38,31.9
+1811,5,Canadian Solar CS6P-265P,Canadian Solar,CS6P-265P,Poly-crystalline,265,5,MC4 or MC4 comparable,Linear,25,80.3,,,65,39.05,1.57,41.9
+,5,Canadian Solar CS6P-M,Canadian Solar,CS6P-M,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6P-M (ELPS),Canadian Solar,CS6P-M (ELPS),,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6P-MX (NewEdge),Canadian Solar,CS6P-MX (NewEdge),,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6P-P 260W,Canadian Solar,CS6P-P 260W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6P-P 265W,Canadian Solar,CS6P-P 265W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6P-P 270W,Canadian Solar,CS6P-P 270W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6P-P-SD (Smart Module),Canadian Solar,CS6P-P-SD (Smart Module),,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6P-PE,Canadian Solar,CS6P-PE,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6P-PM (ELPX),Canadian Solar,CS6P-PM (ELPX),,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6P-PN,Canadian Solar,CS6P-PN,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6P-PT,Canadian Solar,CS6P-PT,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6P-PX (NewEdge),Canadian Solar,CS6P-PX (NewEdge),,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6U-M (MaxPower) 325W,Canadian Solar,CS6U-M (MaxPower) 325W,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6U-M (MaxPower) 325W 1500V,Canadian Solar,CS6U-M (MaxPower) 325W 1500V,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6U-M (MaxPower) 330W,Canadian Solar,CS6U-M (MaxPower) 330W,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6U-M (MaxPower) 330W 1500V,Canadian Solar,CS6U-M (MaxPower) 330W 1500V,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6U-M (MaxPower) 335W,Canadian Solar,CS6U-M (MaxPower) 335W,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6U-M (MaxPower) 335W 1500V,Canadian Solar,CS6U-M (MaxPower) 335W 1500V,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6U-M (MaxPower) 340W,Canadian Solar,CS6U-M (MaxPower) 340W,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6U-M (MaxPower) 340W 1500V,Canadian Solar,CS6U-M (MaxPower) 340W 1500V,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6U-P (MaxPower) 315W,Canadian Solar,CS6U-P (MaxPower) 315W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6U-P (MaxPower) 315W 1500V,Canadian Solar,CS6U-P (MaxPower) 315W 1500V,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6U-P (MaxPower) 320W,Canadian Solar,CS6U-P (MaxPower) 320W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6U-P (MaxPower) 320W 1500V,Canadian Solar,CS6U-P (MaxPower) 320W 1500V,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6U-P (MaxPower) 325W,Canadian Solar,CS6U-P (MaxPower) 325W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6U-P (MaxPower) 325W 1500V,Canadian Solar,CS6U-P (MaxPower) 325W 1500V,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6U-P (MaxPower) 330W,Canadian Solar,CS6U-P (MaxPower) 330W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6U-P (MaxPower) 330W 1500V,Canadian Solar,CS6U-P (MaxPower) 330W 1500V,,,,,Linear,25,80.7,,,,,,
+1815,5,Canadian Solar CS6V-210P,Canadian Solar,CS6V-210P,Mono-crystalline,210,5,MC4 or MC4 comparable,Linear,25,0.803,,,62.2,31.81,1.38,31.9
+1816,5,Canadian Solar CS6V-215P,Canadian Solar,CS6V-215P,Mono-crystalline,215,5,MC4 or MC4 comparable,Linear,25,0.803,,,62.2,31.81,1.38,31.9
+1817,5,Canadian Solar CS6V-220M,Canadian Solar,CS6V-220M,Mono-crystalline,220,5,MC4 or MC4 comparable,Linear,25,0.803,,,77.01,39.05,1.57,58.4
+1818,5,Canadian Solar CS6V-225M,Canadian Solar,CS6V-225M,Mono-crystalline,225,5,MC4 or MC4 comparable,Linear,25,0.803,,,77.01,39.05,1.57,58.4
+,5,Canadian Solar CS6V-MM (ELPS),Canadian Solar,CS6V-MM (ELPS),,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6V-MS,Canadian Solar,CS6V-MS,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6V-P,Canadian Solar,CS6V-P,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6VH-M,Canadian Solar,CS6VH-M,,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6VH-MM (ELPS),Canadian Solar,CS6VH-MM (ELPS),,,,,Linear,25,80.2,,,,,,
+,5,Canadian Solar CS6VH-P,Canadian Solar,CS6VH-P,,,,,Linear,25,80.7,,,,,,
+1457,5,Canadian Solar CS6X-300M,Canadian Solar,CS6X-300M,,,,,Linear,25,80.2,,,,,,
+1458,5,Canadian Solar CS6X-305M,Canadian Solar,CS6X-305M,,,,,Linear,25,80.2,,,,,,
+1670,5,Canadian Solar CS6X-310P,Canadian Solar,CS6X-310P,Poly-crystalline,310,5,MC4 or MC4 comparable,Linear,25,0.803,,,65,39.05,1.57,41.9
+1819,5,Canadian Solar CS6X-315P,Canadian Solar,CS6X-315P,Poly-crystalline,315,5,MC4 or MC4 comparable,Linear,25,0.803,,,77.01,39.05,1.57,58.4
+1820,5,Canadian Solar CS6X-320P,Canadian Solar,CS6X-320P,Poly-crystalline,320,5,MC4 or MC4 comparable,Linear,25,0.803,,,77.01,39.05,1.57,58.4
+,5,Canadian Solar CS6X-M-FG 330W,Canadian Solar,CS6X-M-FG 330W,,,,,Linear,30,81.5,,,,,,
+,5,Canadian Solar CS6X-M-FG 335W,Canadian Solar,CS6X-M-FG 335W,,,,,Linear,30,81.5,,,,,,
+,5,Canadian Solar CS6X-M-FG 340W,Canadian Solar,CS6X-M-FG 340W,,,,,Linear,30,81.5,,,,,,
+,5,Canadian Solar CS6X-P (MaxPower) 310W,Canadian Solar,CS6X-P (MaxPower) 310W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6X-P (MaxPower) 315W,Canadian Solar,CS6X-P (MaxPower) 315W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6X-P (MaxPower) 320W,Canadian Solar,CS6X-P (MaxPower) 320W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6X-P (MaxPower) 325W,Canadian Solar,CS6X-P (MaxPower) 325W,,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6X-P-FG 315W,Canadian Solar,CS6X-P-FG 315W,,,,,Linear,30,83,,,,,,
+,5,Canadian Solar CS6X-P-FG 320W,Canadian Solar,CS6X-P-FG 320W,,,,,Linear,30,83,,,,,,
+,5,Canadian Solar CS6X-P-FG 325W,Canadian Solar,CS6X-P-FG 325W,,,,,Linear,30,83,,,,,,
+,5,Canadian Solar CS6X-P-FG 330W,Canadian Solar,CS6X-P-FG 330W,,,,,Linear,30,83,,,,,,
+,5,Canadian Solar CS6X-PM (ELPS),Canadian Solar,CS6X-PM (ELPS),,,,,Linear,25,80.7,,,,,,
+,5,Canadian Solar CS6X-PX (NewEdge),Canadian Solar,CS6X-PX (NewEdge),,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN245-60M,CSUN,CSUN245-60M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN245-60P-BB,CSUN,CSUN245-60P-BB,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN245-60P-DG,CSUN,CSUN245-60P-DG,,,,,Linear,25,83,,,,,,
+,5,CSUN CSUN250-60M,CSUN,CSUN250-60M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN250-60P-DG,CSUN,CSUN250-60P-DG,,,,,Linear,25,83,,,,,,
+,5,CSUN CSUN250-60P-MM,CSUN,CSUN250-60P-MM,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN250-60P-SMART,CSUN,CSUN250-60P-SMART,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN255-60M,CSUN,CSUN255-60M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN255-60M-BB,CSUN,CSUN255-60M-BB,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN255-60M-DG,CSUN,CSUN255-60M-DG,,,,,Linear,25,82.5,,,,,,
+,5,CSUN CSUN255-60P,CSUN,CSUN255-60P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN255-60P-DG,CSUN,CSUN255-60P-DG,,,,,Linear,25,83,,,,,,
+,5,CSUN CSUN255-60P-MM,CSUN,CSUN255-60P-MM,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN255-60P-SMART,CSUN,CSUN255-60P-SMART,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN255-60P-WARATAH,CSUN,CSUN255-60P-WARATAH,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN257-60P,CSUN,CSUN257-60P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN260-60M,CSUN,CSUN260-60M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN260-60M-BB,CSUN,CSUN260-60M-BB,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN260-60M-DG,CSUN,CSUN260-60M-DG,,,,,Linear,25,82.5,,,,,,
+,5,CSUN CSUN260-60P,CSUN,CSUN260-60P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN260-60P-DG,CSUN,CSUN260-60P-DG,,,,,Linear,25,83,,,,,,
+,5,CSUN CSUN260-60P-MM,CSUN,CSUN260-60P-MM,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN260-60P-SMART,CSUN,CSUN260-60P-SMART,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN260-60P-WARATAH,CSUN,CSUN260-60P-WARATAH,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN265-60M,CSUN,CSUN265-60M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN265-60M-BB,CSUN,CSUN265-60M-BB,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN265-60M-DG,CSUN,CSUN265-60M-DG,,,,,Linear,25,82.5,,,,,,
+,5,CSUN CSUN265-60M-QSAR,CSUN,CSUN265-60M-QSAR,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN265-60M-SMART,CSUN,CSUN265-60M-SMART,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN265-60P,CSUN,CSUN265-60P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN265-60P-DG,CSUN,CSUN265-60P-DG,,,,,Linear,25,83,,,,,,
+,5,CSUN CSUN265-60P-SMART,CSUN,CSUN265-60P-SMART,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN265-60P-WARATAH,CSUN,CSUN265-60P-WARATAH,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN270-60M,CSUN,CSUN270-60M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN270-60M-BB,CSUN,CSUN270-60M-BB,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN270-60M-DG,CSUN,CSUN270-60M-DG,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN270-60M-QSAR,CSUN,CSUN270-60M-QSAR,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN270-60M-SMART,CSUN,CSUN270-60M-SMART,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN270-60P,CSUN,CSUN270-60P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN275-60M,CSUN,CSUN275-60M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN275-60M-QSAR,CSUN,CSUN275-60M-QSAR,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN275-60M-SMART,CSUN,CSUN275-60M-SMART,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN280-60M,CSUN,CSUN280-60M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN280-60M-BW,CSUN,CSUN280-60M-BW,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN280-60M-SMART,CSUN,CSUN280-60M-SMART,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN280-60P,CSUN,CSUN280-60P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN285-60M,CSUN,CSUN285-60M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN285-60M-BW,CSUN,CSUN285-60M-BW,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN285-60P,CSUN,CSUN285-60P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN290-120P,CSUN,CSUN290-120P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN290-60M,CSUN,CSUN290-60M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN290-60M-BW,CSUN,CSUN290-60M-BW,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN290-72P,CSUN,CSUN290-72P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN295-72P,CSUN,CSUN295-72P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN300-72P,CSUN,CSUN300-72P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN305-72P,CSUN,CSUN305-72P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN305-72P-WARATAH,CSUN,CSUN305-72P-WARATAH,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN310-72P,CSUN,CSUN310-72P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN310-72P-WARATAH,CSUN,CSUN310-72P-WARATAH,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN315-72M,CSUN,CSUN315-72M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN315-72M-QSAR,CSUN,CSUN315-72M-QSAR,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN315-72P,CSUN,CSUN315-72P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN315-72P-WARATAH,CSUN,CSUN315-72P-WARATAH,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN320-72M,CSUN,CSUN320-72M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN320-72M-QSAR,CSUN,CSUN320-72M-QSAR,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN320-72P,CSUN,CSUN320-72P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN CSUN325-72M,CSUN,CSUN325-72M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN325-72M-QSAR,CSUN,CSUN325-72M-QSAR,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN330-72M,CSUN,CSUN330-72M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN330-72M-DG,CSUN,CSUN330-72M-DG,,,,,Linear,25,82.5,,,,,,
+,5,CSUN CSUN335-72M,CSUN,CSUN335-72M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN335-72M-DG,CSUN,CSUN335-72M-DG,,,,,Linear,25,82.5,,,,,,
+,5,CSUN CSUN340-72M,CSUN,CSUN340-72M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN340-72M-DG,CSUN,CSUN340-72M-DG,,,,,Linear,25,82.5,,,,,,
+,5,CSUN CSUN340-72M-SMART,CSUN,CSUN340-72M-SMART,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN345-72M,CSUN,CSUN345-72M,,,,,Linear,25,80.18,,,,,,
+,5,CSUN CSUN345-72M-DG,CSUN,CSUN345-72M-DG,,,,,Linear,25,82.5,,,,,,
+,5,CSUN VSUN145-36P,CSUN,VSUN145-36P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN VSUN150-36P,CSUN,VSUN150-36P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN VSUN155-36P,CSUN,VSUN155-36P,,,,,Linear,25,80.7,,,,,,
+,5,CSUN VSUN160-36P,CSUN,VSUN160-36P,,,,,Linear,25,80.7,,,,,,
+,5,ET Solar ET-M648BB 210W,ET Solar,ET-M648BB 210W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M648BB 215W,ET Solar,ET-M648BB 215W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M648BB 220W,ET Solar,ET-M648BB 220W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M648BB 225W,ET Solar,ET-M648BB 225W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M660BB 265W,ET Solar,ET-M660BB 265W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M660BB 270W,ET Solar,ET-M660BB 270W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M660BB 275W,ET Solar,ET-M660BB 275W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M660BB 280W,ET Solar,ET-M660BB 280W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M660BB 285W,ET Solar,ET-M660BB 285W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M672BB 320W,ET Solar,ET-M672BB 320W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M672BB 325W,ET Solar,ET-M672BB 325W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M672BB 330W,ET Solar,ET-M672BB 330W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M672BB 335W,ET Solar,ET-M672BB 335W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M672BB 340W,ET Solar,ET-M672BB 340W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-P660BB 265W,ET Solar,ET-P660BB 265W,,,,,Linear,25,81.9,,,,,,
+,5,ET Solar ET-P672BB 310W,ET Solar,ET-P672BB 310W,,,,,Linear,25,81.9,,,,,,
+,5,ET Solar ET-P672BB 315W,ET Solar,ET-P672BB 315W,,,,,Linear,25,81.9,,,,,,
+,5,ET Solar ET-P672BB 320W,ET Solar,ET-P672BB 320W,,,,,Linear,25,81.9,,,,,,
+,5,ET Solar ET-M648WW 215W,ET Solar,ET-M648WW 215W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M648WW 220W,ET Solar,ET-M648WW 220W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M648WW 225W,ET Solar,ET-M648WW 225W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M648WW 230W,ET Solar,ET-M648WW 230W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M660WW 270W,ET Solar,ET-M660WW 270W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M660WW 275W,ET Solar,ET-M660WW 275W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M660WW 280W,ET Solar,ET-M660WW 280W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M660WW 285W,ET Solar,ET-M660WW 285W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M660WW 290W,ET Solar,ET-M660WW 290W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M672WW 325W,ET Solar,ET-M672WW 325W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M672WW 330W,ET Solar,ET-M672WW 330W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M672WW 335W,ET Solar,ET-M672WW 335W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M672WW 340W,ET Solar,ET-M672WW 340W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-M672WW 345W,ET Solar,ET-M672WW 345W,,,,,Linear,25,81.4,,,,,,
+,5,ET Solar ET-P648WW 205W,ET Solar,ET-P648WW 205W,,,,,Linear,25,81.9,,,,,,
+,5,ET Solar ET-P648WW 210W,ET Solar,ET-P648WW 210W,,,,,Linear,25,81.9,,,,,,
+,5,ET Solar ET-P648WW 215W,ET Solar,ET-P648WW 215W,,,,,Linear,25,81.9,,,,,,
+,5,ET Solar ET-P660WW 270W,ET Solar,ET-P660WW 270W,,,,,Linear,25,81.9,,,,,,
+,5,ET Solar ET-P672WW 320W,ET Solar,ET-P672WW 320W,,,,,Linear,25,81.9,,,,,,
+,5,ET Solar ET-P672WW 325W,ET Solar,ET-P672WW 325W,,,,,Linear,25,81.9,,,,,,
+,5,ET Solar ET Double-Glass 255W,ET Solar,ET Double-Glass 255W,,,,,Linear,30,80,,,,,,
+,5,ET Solar ET Double-Glass 260W,ET Solar,ET Double-Glass 260W,,,,,Linear,30,80,,,,,,
+,5,ET Solar ET Double-Glass 265W,ET Solar,ET Double-Glass 265W,,,,,Linear,30,80,,,,,,
+1825,5,ET Solar ET-M572BB 195W,ET Solar,ET-M572BB 195W,Monocrystalline,195,5,MC4 Compatible,Linear,25,80,,,65,39.05,1.57,41.9
+1824,5,ET Solar ET-M572BB 200W,ET Solar,ET-M572BB 200W,Monocrystalline,200,5,MC4 Compatible,Linear,25,80,,,65,39.05,1.57,41.9
+1827,5,ET Solar ET-M572WW 200W,ET Solar,ET-M572WW 200W,Monocrystalline,200,5,MC4 Compatible,Linear,25,80,,,65,39.05,1.57,41.9
+1826,5,ET Solar ET-M572WW 205W,ET Solar,ET-M572WW 205W,Monocrystalline,205,5,MC4 Compatible,Linear,25,80,,,65,39.05,1.57,41.9
+1829,5,ET Solar ET-P648WW 195W,ET Solar,ET-P648WW 195W,Polycrystalline,195,5,MC4 Compatible,Linear,25,80,,,65,39.05,1.57,41.9
+1828,5,ET Solar ET-P648WW 200W,ET Solar,ET-P648WW 200W,Polycrystalline,200,5,MC4 Compatible,Linear,25,80,,,65,39.05,1.57,41.9
+765,5,ET Solar ET-P660BB 235W,ET Solar,ET-P660BB 235W,,,,,Linear,25,80,,,,,,
+763,5,ET Solar ET-P660BB 245W,ET Solar,ET-P660BB 245W,Polycrystalline,245,5,MC4 Compatible,Linear,25,80,,,64.5,38.7,1.57,39.7
+762,5,ET Solar ET-P660BB 250W,ET Solar,ET-P660BB 250W,Polycrystalline,250,5,MC4 Compatible,Linear,25,80,,,65,39.1,0.23,50.7
+1839,5,ET Solar ET-P660WB 250W,ET Solar,ET-P660WB 250W,Polycrystalline,250,5,MC4 Compatible,Linear,25,80,,,77.01,39.05,1.57,58.4
+1835,5,ET Solar ET-P660WW 250W,ET Solar,ET-P660WW 250W,Polycrystalline,250,5,MC4 Compatible,Linear,25,80,,,77.01,39.05,1.57,58.4
+1831,5,ET Solar ET-P660BB 255W,ET Solar,ET-P660BB 255W,Polycrystalline,255,5,MC4 Compatible,Linear,25,80,,,77.01,39.05,1.57,58.4
+1838,5,ET Solar ET-P660WB 255W,ET Solar,ET-P660WB 255W,Polycrystalline,255,5,MC4 Compatible,Linear,25,80,,,77.01,39.05,1.57,58.4
+1834,5,ET Solar ET-P660WW 255W,ET Solar,ET-P660WW 255W,Polycrystalline,255,5,MC4 Compatible,Linear,25,80,,,77.01,39.05,1.57,58.4
+1830,5,ET Solar ET-P660BB 260W,ET Solar,ET-P660BB 260W,Polycrystalline,260,5,MC4 Compatible,Linear,25,80,,,65,39.05,1.57,41.9
+1837,5,ET Solar ET-P660WB 260W,ET Solar,ET-P660WB 260W,Polycrystalline,260,5,MC4 Compatible,Linear,25,80,,,77.01,39.05,1.57,58.4
+1833,5,ET Solar ET-P660WW 260W,ET Solar,ET-P660WW 260W,Polycrystalline,260,5,MC4 Compatible,Linear,25,80,,,77.01,39.05,1.57,58.4
+1836,5,ET Solar ET-P660WB 265W,ET Solar,ET-P660WB 265W,Polycrystalline,265,5,MC4 Compatible,Linear,25,80,,,77.01,39.05,1.57,58.4
+1832,5,ET Solar ET-P660WW 265W,ET Solar,ET-P660WW 265W,Polycrystalline,265,5,MC4 Compatible,Linear,25,80,,,77.01,39.05,1.57,58.4
+757,5,ET Solar ET-P672BB 290W,ET Solar,ET-P672BB 290W,Polycrystalline,295,5,MC4 Compatible,Linear,25,80,,,65,39.1,0.23,50.7
+1823,5,ET Solar ET-P672BB 295W,ET Solar,ET-P672BB 295W,Polycrystalline,300,5,MC4 Compatible,Linear,25,80,,,65,39.05,1.57,41.9
+1822,5,ET Solar ET-P672BB 300W,ET Solar,ET-P672BB 300W,Polycrystalline,305,5,MC4 Compatible,Linear,25,80,,,65,39.05,1.57,41.9
+1843,5,ET Solar ET-P672WB 300W,ET Solar,ET-P672WB 300W,Polycrystalline,300,5,MC4 Compatible,Linear,25,80,,,65.43,51.97,1.8,60.6
+1847,5,ET Solar ET-P672WW 300W,ET Solar,ET-P672WW 300W,Polycrystalline,300,5,MC4 Compatible,Linear,25,80,,,65.43,51.97,1.8,60.6
+1821,5,ET Solar ET-P672BB 305W,ET Solar,ET-P672BB 305W,Polycrystalline,310,5,MC4 Compatible,Linear,25,80,,,77.01,39.05,1.57,58.4
+1842,5,ET Solar ET-P672WB 305W,ET Solar,ET-P672WB 305W,Polycrystalline,305,5,MC4 Compatible,Linear,25,80,,,65.43,51.97,1.8,60.6
+1846,5,ET Solar ET-P672WW 305W,ET Solar,ET-P672WW 305W,Polycrystalline,305,5,MC4 Compatible,Linear,25,80,,,65.43,51.97,1.8,60.6
+1841,5,ET Solar ET-P672WB 310W,ET Solar,ET-P672WB 310W,Polycrystalline,310,5,MC4 Compatible,Linear,25,80,,,65.4,38.98,1.8,41.9
+1845,5,ET Solar ET-P672WW 310W,ET Solar,ET-P672WW 310W,Polycrystalline,310,5,MC4 Compatible,Linear,25,80,,,59.06,26.3,1.8,28.4
+1840,5,ET Solar ET-P672WB 315W,ET Solar,ET-P672WB 315W,Polycrystalline,315,5,MC4 Compatible,Linear,25,80,,,65.4,38.98,1.8,41.9
+1844,5,ET Solar ET-P672WW 315W,ET Solar,ET-P672WW 315W,Polycrystalline,315,5,MC4 Compatible,Linear,25,80,,,59.06,26.3,1.8,28.4
+,5,ET Solar Smart Flex ET-P660 260-270W,ET Solar,Smart Flex ET-P660 260-270W,,,,,Linear,25,80,,,,,,
+,5,ET Solar Smart Flex ET-P672 310-325W,ET Solar,Smart Flex ET-P672 310-325W,,,,,Linear,25,80,,,,,,
+1340,5,Hanwha HSL60P6-245,Hanwha,HSL60P6-245,Polycrystalline,245,3,H4 Compatible,Linear,25,82,,,64.57,39.06,1.58,41.45
+1459,5,Hanwha HSL60P6-250,Hanwha,HSL60P6-250,Polycrystalline,250,3,H4 Compatible,Linear,25,82,,,77.38,38.86,1.97,63.9
+1460,5,Hanwha HSL60P6-255,Hanwha,HSL60P6-255,Polycrystalline,255,3,H4 Compatible,Linear,25,82,,,77.38,38.86,1.97,63.9
+1848,5,Hanwha HSL60P6-260,Hanwha,HSL60P6-260,Polycrystalline,260,3,H4 Compatible,Linear,25,82,,,65.4,38.98,1.8,44
+1849,5,Hanwha HSL60P6-265,Hanwha,HSL60P6-265,Polycrystalline,265,3,H4 Compatible,Linear,25,82,,,65.4,38.98,1.8,44
+1850,5,Hanwha HSL60P6-270,Hanwha,HSL60P6-270,Polycrystalline,270,3,H4 Compatible,Linear,25,82,,,64.57,39.37,1.38,36.96
+1464,5,Hanwha HSL72P6-290,Hanwha,HSL72P6-290,Polycrystalline,290,3,H4 Compatible,Linear,25,82,,,77.38,38.86,1.97,63.9
+1465,5,Hanwha HSL72P6-295,Hanwha,HSL72P6-295,Polycrystalline,295,3,H4 Compatible,Linear,25,82,,,77.38,38.86,1.97,63.9
+1466,5,Hanwha HSL72P6-300,Hanwha,HSL72P6-300,Polycrystalline,300,3,H4 Compatible,Linear,25,82,,,77.38,38.86,1.97,63.9
+1467,5,Hanwha HSL72P6-305,Hanwha,HSL72P6-305,Polycrystalline,305,3,H4 Compatible,Linear,25,82,,,77.38,38.86,1.97,63.9
+1851,5,Hanwha HSL72P6-310,Hanwha,HSL72P6-310,Polycrystalline,310,3,H4 Compatible,Linear,25,82,,,64.57,39.37,1.38,36.96
+1852,5,Hanwha HSL72P6-315,Hanwha,HSL72P6-315,Polycrystalline,315,3,H4 Compatible,Linear,25,82,,,64.57,39.37,1.38,36.96
+,5,Hanwha Q.PEAK-G4.1 295W,Hanwha,Q.PEAK-G4.1 295W,,,,,Linear,25,83.6,,,,,,
+,5,Hanwha Q.PEAK-G4.1 300W,Hanwha,Q.PEAK-G4.1 300W,,,,,Linear,25,83.6,,,,,,
+,5,Hanwha Q.PEAK-G4.1 305W,Hanwha,Q.PEAK-G4.1 305W,,,,,Linear,25,83.6,,,,,,
+,5,Hanwha Q.PLUS BFR-G4.1 270W,Hanwha,Q.PLUS BFR-G4.1 270W,,,,,Linear,25,83,,,,,,
+,5,Hanwha Q.PLUS BFR-G4.1 275W,Hanwha,Q.PLUS BFR-G4.1 275W,,,,,Linear,25,83,,,,,,
+,5,Hanwha Q.PLUS BFR-G4.1 280W,Hanwha,Q.PLUS BFR-G4.1 280W,,,,,Linear,25,83,,,,,,
+,5,Hanwha Q.PLUS L-G4.1 330W,Hanwha,Q.PLUS L-G4.1 330W,,,,,Linear,25,83,,,,,,
+,5,Hanwha Q.PLUS L-G4.1 335W,Hanwha,Q.PLUS L-G4.1 335W,,,,,Linear,25,83,,,,,,
+,5,Hanwha Q.PLUS L-G4.1 340W,Hanwha,Q.PLUS L-G4.1 340W,,,,,Linear,25,83,,,,,,
+1391,5,Hyundai Solar HiS-M220MF,Hyundai Solar,HiS-M220MF,,,,,Linear,25,80.2,,,,,,
+1362,5,Hyundai Solar HiS-M230MG,Hyundai Solar,HiS-M230MG,Polycrystalline,230,3,,Linear,25,80.2,,,64.57,39.06,1.58,41.45
+877,5,Hyundai Solar HiS-M233MG,Hyundai Solar,HiS-M233MG,,,,,Linear,25,80.2,,,,,,
+874,5,Hyundai Solar HiS-M235MG,Hyundai Solar,HiS-M235MG,Polycrystalline,233,3,,Linear,25,80.2,,,64.5,32.5,1.57,35.3
+1364,5,Hyundai Solar HiS-M240MG,Hyundai Solar,HiS-M240MG,Polycrystalline,235,3,,Linear,25,80.2,,,64.57,39.06,1.58,41.45
+1365,5,Hyundai Solar HiS-M245MG,Hyundai Solar,HiS-M245MG,Polycrystalline,238,3,,Linear,25,80.2,,,64.57,39.06,1.58,41.45
+,5,Hyundai Solar HiS-M245RG (BK),Hyundai Solar,HiS-M245RG (BK),,,,,Linear,25,80.2,,,,,,
+1366,5,Hyundai Solar HiS-M250MG,Hyundai Solar,HiS-M250MG,Polycrystalline,240,3,,Linear,25,80.2,,,64.57,39.06,1.58,41.45
+1869,5,Hyundai Solar HiS-M250RG,Hyundai Solar,HiS-M250RG,Polycrystalline,250,3,,Linear,25,80.2,,,64.57,39.37,1.38,36.96
+,5,Hyundai Solar HiS-M250RG (BK),Hyundai Solar,HiS-M250RG (BK),,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M250TG,Hyundai Solar,HiS-M250TG,,,,,Linear,25,80.2,,,,,,
+1858,5,Hyundai Solar HiS-M255MG,Hyundai Solar,HiS-M255MG,Monocrystalline,250,3,,Linear,25,80.2,,,64.57,39.37,1.57,37.48
+1397,5,Hyundai Solar HiS-M255RG,Hyundai Solar,HiS-M255RG,Polycrystalline,255,3,,Linear,25,80.2,,,77.01,39.06,1.58,57.98
+,5,Hyundai Solar HiS-M255RG (BK),Hyundai Solar,HiS-M255RG (BK),,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M255TG,Hyundai Solar,HiS-M255TG,,,,,Linear,25,80.2,,,,,,
+1859,5,Hyundai Solar HiS-M260MG,Hyundai Solar,HiS-M260MG,Monocrystalline,255,3,,Linear,25,80.2,,,64.57,39.37,1.57,37.48
+1398,5,Hyundai Solar HiS-M260RG,Hyundai Solar,HiS-M260RG,Polycrystalline,260,3,,Linear,25,80.2,,,77.01,39.06,1.58,57.98
+,5,Hyundai Solar HiS-M260RG (BK),Hyundai Solar,HiS-M260RG (BK),,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M260TG,Hyundai Solar,HiS-M260TG,,,,,Linear,25,80.2,,,,,,
+1865,5,Hyundai Solar HiS-M265MG,Hyundai Solar,HiS-M265MG,Monocrystalline,260,3,,Linear,25,80.2,,,64.57,39.37,1.38,36.96
+,5,Hyundai Solar HiS-M265RG,Hyundai Solar,HiS-M265RG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M265RG (BK),Hyundai Solar,HiS-M265RG (BK),,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M265TG,Hyundai Solar,HiS-M265TG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M270RG,Hyundai Solar,HiS-M270RG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M270RG (BK),Hyundai Solar,HiS-M270RG (BK),,,,,Linear,25,80.2,,,,,,
+868,5,Hyundai Solar HiS-M275MI,Hyundai Solar,HiS-M275MI,Polycrystalline,275,3,,Linear,25,80.2,,,65,39.1,1.57,40.1
+,5,Hyundai Solar HiS-M275RG,Hyundai Solar,HiS-M275RG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M275TG,Hyundai Solar,HiS-M275TG,,,,,Linear,25,80.2,,,,,,
+867,5,Hyundai Solar HiS-M280MI,Hyundai Solar,HiS-M280MI,Polycrystalline,280,3,,Linear,25,80.2,,,65,39.1,1.57,40.1
+865,5,Hyundai Solar HiS-M285MI,Hyundai Solar,HiS-M285MI,Polycrystalline,285,3,,Linear,25,80.2,,,64.5,38.7,1.57,39.7
+863,5,Hyundai Solar HiS-M290MI,Hyundai Solar,HiS-M290MI,Polycrystalline,290,3,,Linear,25,80.2,,,64.5,38.7,1.57,39.7
+860,5,Hyundai Solar HiS-M295MI,Hyundai Solar,HiS-M295MI,Polycrystalline,295,3,,Linear,25,80.2,,,64.5,38.7,1.57,39.7
+1405,5,Hyundai Solar HiS-M295RI,Hyundai Solar,HiS-M295RI,Polycrystalline,295,3,,Linear,25,80.2,,,77.01,39.06,1.58,57.98
+858,5,Hyundai Solar HiS-M300MI,Hyundai Solar,HiS-M300MI,Monocrystalline,300,3,,Linear,25,80.2,,,64.5,38.7,1.57,39.7
+1406,5,Hyundai Solar HiS-M300RI,Hyundai Solar,HiS-M300RI,Polycrystalline,300,3,,Linear,25,80.2,,,77.01,39.06,1.58,57.98
+,5,Hyundai Solar HiS-M300TI,Hyundai Solar,HiS-M300TI,,,,,Linear,25,80.2,,,,,,
+1868,5,Hyundai Solar HiS-M305MI,Hyundai Solar,HiS-M305MI,Monocrystalline,305,3,,Linear,25,80.2,,,64.57,39.37,1.38,36.96
+1407,5,Hyundai Solar HiS-M305RI,Hyundai Solar,HiS-M305RI,Polycrystalline,305,3,,Linear,25,80.2,,,77.01,39.06,1.58,57.98
+,5,Hyundai Solar HiS-M305TI,Hyundai Solar,HiS-M305TI,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M310TI,Hyundai Solar,HiS-M310TI,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M315TI,Hyundai Solar,HiS-M315TI,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M320TI,Hyundai Solar,HiS-M320TI,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M325TI,Hyundai Solar,HiS-M325TI,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-M700TG,Hyundai Solar,HiS-M700TG,,,,,Linear,25,80.2,,,,,,
+884,5,Hyundai Solar HiS-S215SF,Hyundai Solar,HiS-S215SF,,,,,Linear,25,80.2,,,,,,
+1853,5,Hyundai Solar HiS-S220MF,Hyundai Solar,HiS-S220MF,Monocrystalline,220,3,,Linear,25,80.2,,,64.57,39.37,1.38,36.96
+1854,5,Hyundai Solar HiS-S225MF,Hyundai Solar,HiS-S225MF,Monocrystalline,225,3,,Linear,25,80.2,,,64.57,39.37,1.38,36.96
+1855,5,Hyundai Solar HiS-S230MF,Hyundai Solar,HiS-S230MF,Monocrystalline,230,3,,Linear,25,80.2,,,64.57,39.37,1.38,36.96
+1856,5,Hyundai Solar HiS-S235MF,Hyundai Solar,HiS-S235MF,Monocrystalline,235,3,,Linear,25,80.2,,,64.57,39.37,1.38,36.96
+1857,5,Hyundai Solar HiS-S240MF,Hyundai Solar,HiS-S240MF,Monocrystalline,240,3,,Linear,25,80.2,,,64.57,39.37,1.38,36.96
+1399,5,Hyundai Solar HiS-S260RG,Hyundai Solar,HiS-S260RG,Monocrystalline,260,3,,Linear,25,80.2,,,77.01,39.06,1.58,57.98
+,5,Hyundai Solar HiS-S260RG (BK),Hyundai Solar,HiS-S260RG (BK),,,,,Linear,25,80.2,,,,,,
+1400,5,Hyundai Solar HiS-S265RG,Hyundai Solar,HiS-S265RG,Monocrystalline,265,3,,Linear,25,80.2,,,77.01,39.06,1.58,57.98
+,5,Hyundai Solar HiS-S265RG (BK),Hyundai Solar,HiS-S265RG (BK),,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S265TG,Hyundai Solar,HiS-S265TG,,,,,Linear,25,80.2,,,,,,
+1401,5,Hyundai Solar HiS-S270RG,Hyundai Solar,HiS-S270RG,Monocrystalline,270,3,,Linear,25,80.2,,,77.01,39.06,1.58,57.98
+,5,Hyundai Solar HiS-S270RG (BK),Hyundai Solar,HiS-S270RG (BK),,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S270TG,Hyundai Solar,HiS-S270TG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S275RG,Hyundai Solar,HiS-S275RG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S275RG (BK),Hyundai Solar,HiS-S275RG (BK),,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S275TG,Hyundai Solar,HiS-S275TG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S280RG,Hyundai Solar,HiS-S280RG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S280RG (BK),Hyundai Solar,HiS-S280RG (BK),,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S280TG,Hyundai Solar,HiS-S280TG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S285RG,Hyundai Solar,HiS-S285RG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S285RG (BK),Hyundai Solar,HiS-S285RG (BK),,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S285TG,Hyundai Solar,HiS-S285TG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S290RG,Hyundai Solar,HiS-S290RG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S290TG,Hyundai Solar,HiS-S290TG,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S325TI,Hyundai Solar,HiS-S325TI,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S330TI,Hyundai Solar,HiS-S330TI,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S335TI,Hyundai Solar,HiS-S335TI,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S340TI,Hyundai Solar,HiS-S340TI,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S345TI,Hyundai Solar,HiS-S345TI,,,,,Linear,25,80.2,,,,,,
+,5,Hyundai Solar HiS-S350TI,Hyundai Solar,HiS-S350TI,,,,,Linear,25,80.2,,,,,,
+1424,5,Jinko Solar JKM195M-72,Jinko Solar,JKM195M-72,Monocrystalline,195,3,MC4,Linear,25,80.2,,,58.11,38.7,1.38,36.4
+1423,5,Jinko Solar JKM200M-72,Jinko Solar,JKM200M-72,Monocrystalline,200,3,MC4,Linear,25,80.2,,,70,38.9,1.77,59.52
+1422,5,Jinko Solar JKM205M-72,Jinko Solar,JKM205M-72,Monocrystalline,205,3,MC4,Linear,25,80.2,,,70,38.9,1.77,59.52
+,5,Jinko Solar JKM205PP-48,Jinko Solar,JKM205PP-48,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM205PP-48 (Plus),Jinko Solar,JKM205PP-48 (Plus),,,,,Linear,25,80.7,,,,,,
+1420,5,Jinko Solar JKM210M-72,Jinko Solar,JKM210M-72,Monocrystalline,210,3,MC4,Linear,25,80.2,,,70,38.9,1.77,59.52
+,5,Jinko Solar JKM210PP-48,Jinko Solar,JKM210PP-48,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM210PP-48 (Plus),Jinko Solar,JKM210PP-48 (Plus),,,,,Linear,25,80.7,,,,,,
+1871,5,Jinko Solar JKM215M-72,Jinko Solar,JKM215M-72,Monocrystalline,215,3,MC4,Linear,25,80.2,,,64.57,39.37,1.57,37.48
+,5,Jinko Solar JKM215PP-48,Jinko Solar,JKM215PP-48,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM215PP-48 (Plus),Jinko Solar,JKM215PP-48 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM220M-48 PERC,Jinko Solar,JKM220M-48 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM220PP-48,Jinko Solar,JKM220PP-48,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM220PP-48 (Plus),Jinko Solar,JKM220PP-48 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM225M-48 PERC,Jinko Solar,JKM225M-48 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM225PP-48,Jinko Solar,JKM225PP-48,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM225PP-48 (Plus),Jinko Solar,JKM225PP-48 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM230M-48 PERC,Jinko Solar,JKM230M-48 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM235M-48 PERC,Jinko Solar,JKM235M-48 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM240M-48 PERC,Jinko Solar,JKM240M-48 PERC,,,,,Linear,25,80.2,,,,,,
+1412,5,Jinko Solar JKM245P-60,Jinko Solar,JKM245P-60,Polycrystalline,245,3,MC4,Linear,25,80.7,,,65.1,39.4,1.78,40.78
+1411,5,Jinko Solar JKM250P-60,Jinko Solar,JKM250P-60,Polycrystalline,250,3,MC4,Linear,25,80.7,,,65.1,39.4,1.78,40.78
+1435,5,Jinko Solar JKM255M-60,Jinko Solar,JKM255M-60,Monocrystalline,255,3,MC4,Linear,25,80.2,,,64.76,38.7,1.38,40.8
+1410,5,Jinko Solar JKM255P-60,Jinko Solar,JKM255P-60,Polycrystalline,255,3,MC4,Linear,25,80.7,,,65.1,39.4,1.78,40.78
+1446,5,Jinko Solar JKM255PP-60,Jinko Solar,JKM255PP-60,Polycrystalline,255,3,MC4,Linear,25,80.7,,,64.76,38.7,1.38,40.8
+,5,Jinko Solar JKM255PP-60-DV,Jinko Solar,JKM255PP-60-DV,,,,,Linear,30,83,,,,,,
+1434,5,Jinko Solar JKM260M-60,Jinko Solar,JKM260M-60,Monocrystalline,260,3,MC4,Linear,25,80.2,,,64.76,38.7,1.38,40.8
+1409,5,Jinko Solar JKM260P-60,Jinko Solar,JKM260P-60,Polycrystalline,260,3,MC4,Linear,25,80.7,,,65.1,39.4,1.78,40.78
+1445,5,Jinko Solar JKM260PP-60,Jinko Solar,JKM260PP-60,Polycrystalline,260,3,MC4,Linear,25,80.7,,,64.76,38.7,1.38,40.8
+,5,Jinko Solar JKM260PP-60 (Plus),Jinko Solar,JKM260PP-60 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM260PP-60-DV,Jinko Solar,JKM260PP-60-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM260PP-J4,Jinko Solar,JKM260PP-J4,,,,,Linear,25,80.7,,,,,,
+1432,5,Jinko Solar JKM265M-60,Jinko Solar,JKM265M-60,Monocrystalline,265,3,MC4,Linear,25,80.2,,,64.76,38.7,1.38,40.8
+1408,5,Jinko Solar JKM265P-60,Jinko Solar,JKM265P-60,Polycrystalline,265,3,MC4,Linear,25,80.7,,,65.1,39.4,1.78,40.78
+1444,5,Jinko Solar JKM265PP-60,Jinko Solar,JKM265PP-60,Polycrystalline,265,3,MC4,Linear,25,80.7,,,64.76,38.7,1.38,40.8
+,5,Jinko Solar JKM265PP-60 (Plus),Jinko Solar,JKM265PP-60 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM265PP-60-DV,Jinko Solar,JKM265PP-60-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM265PP-J4,Jinko Solar,JKM265PP-J4,,,,,Linear,25,80.7,,,,,,
+1431,5,Jinko Solar JKM270M-60,Jinko Solar,JKM270M-60,Monocrystalline,270,3,MC4,Linear,25,80.2,,,64.76,38.7,1.38,40.8
+1443,5,Jinko Solar JKM270PP-60,Jinko Solar,JKM270PP-60,Polycrystalline,270,3,MC4,Linear,25,80.7,,,64.76,38.7,1.38,40.8
+,5,Jinko Solar JKM270PP-60 (Plus),Jinko Solar,JKM270PP-60 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM270PP-60-DV,Jinko Solar,JKM270PP-60-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM270PP-J4,Jinko Solar,JKM270PP-J4,,,,,Linear,25,80.7,,,,,,
+1870,5,Jinko Solar JKM275M-60,Jinko Solar,JKM275M-60,Monocrystalline,275,3,MC4,Linear,25,80.2,,,64.57,39.37,1.57,37.48
+,5,Jinko Solar JKM275PP-60,Jinko Solar,JKM275PP-60,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM275PP-60 (Plus),Jinko Solar,JKM275PP-60 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM275PP-60-DV,Jinko Solar,JKM275PP-60-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM275PP-J4,Jinko Solar,JKM275PP-J4,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM280M-60 PERC,Jinko Solar,JKM280M-60 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM280M-60(Plus),Jinko Solar,JKM280M-60(Plus),,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM280PP-60,Jinko Solar,JKM280PP-60,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM280PP-60 (Plus),Jinko Solar,JKM280PP-60 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM280PP-60-DV,Jinko Solar,JKM280PP-60-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM280PP-J4,Jinko Solar,JKM280PP-J4,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM285M-60 PERC,Jinko Solar,JKM285M-60 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM285M-60(Plus),Jinko Solar,JKM285M-60(Plus),,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM290M-60 PERC,Jinko Solar,JKM290M-60 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM290M-60(Plus),Jinko Solar,JKM290M-60(Plus),,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM295M-60 PERC,Jinko Solar,JKM295M-60 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM295M-60(Plus),Jinko Solar,JKM295M-60(Plus),,,,,Linear,25,80.2,,,,,,
+1418,5,Jinko Solar JKM295P-72,Jinko Solar,JKM295P-72,Polycrystalline,295,3,MC4,Linear,25,80.7,,,70,38.9,1.77,59.52
+,5,Jinko Solar JKM300M-60 PERC,Jinko Solar,JKM300M-60 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM300M-60(Plus),Jinko Solar,JKM300M-60(Plus),,,,,Linear,25,80.2,,,,,,
+1429,5,Jinko Solar JKM300M-72,Jinko Solar,JKM300M-72,Monocrystalline,300,3,MC4,Linear,25,80.2,,,58.11,38.7,1.38,36.4
+1417,5,Jinko Solar JKM300P-72,Jinko Solar,JKM300P-72,Polycrystalline,300,3,MC4,Linear,25,80.7,,,70,38.9,1.77,59.52
+1428,5,Jinko Solar JKM305M-72,Jinko Solar,JKM305M-72,Monocrystalline,305,3,MC4,Linear,25,80.2,,,58.11,38.7,1.38,36.4
+1415,5,Jinko Solar JKM305P-72,Jinko Solar,JKM305P-72,Polycrystalline,305,3,MC4,Linear,25,80.7,,,70,38.9,1.77,59.52
+1449,5,Jinko Solar JKM305PP-72,Jinko Solar,JKM305PP-72,Polycrystalline,305,3,MC4,Linear,25,80.7,,,64.76,38.7,1.38,40.8
+1427,5,Jinko Solar JKM310M-72,Jinko Solar,JKM310M-72,Monocrystalline,310,3,MC4,Linear,25,80.2,,,58.11,38.7,1.38,36.4
+1413,5,Jinko Solar JKM310P-72,Jinko Solar,JKM310P-72,Polycrystalline,310,3,MC4,Linear,25,80.7,,,65.1,39.4,1.78,40.78
+1448,5,Jinko Solar JKM310PP-72,Jinko Solar,JKM310PP-72,Polycrystalline,310,3,MC4,Linear,25,80.7,,,64.76,38.7,1.38,40.8
+,5,Jinko Solar JKM310PP-72-DV,Jinko Solar,JKM310PP-72-DV,,,,,Linear,30,83,,,,,,
+1426,5,Jinko Solar JKM315M-72,Jinko Solar,JKM315M-72,Monocrystalline,315,3,MC4,Linear,25,80.2,,,58.11,38.7,1.38,36.4
+1873,5,Jinko Solar JKM315P-72,Jinko Solar,JKM315P-72,Polycrystalline,315,3,MC4,Linear,25,80.7,,,64.57,39.37,1.38,36.96
+1447,5,Jinko Solar JKM315PP-72,Jinko Solar,JKM315PP-72,Polycrystalline,315,3,MC4,Linear,25,80.7,,,64.76,38.7,1.38,40.8
+,5,Jinko Solar JKM315PP-72 (Plus),Jinko Solar,JKM315PP-72 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM315PP-72-DV,Jinko Solar,JKM315PP-72-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM315PP-J4,Jinko Solar,JKM315PP-J4,,,,,Linear,25,80.7,,,,,,
+1872,5,Jinko Solar JKM320M-72,Jinko Solar,JKM320M-72,Monocrystalline,320,3,MC4,Linear,25,80.2,,,64.57,39.37,1.57,37.48
+1874,5,Jinko Solar JKM320PP-72,Jinko Solar,JKM320PP-72,Polycrystalline,320,3,MC4,Linear,25,80.7,,,64.57,39.37,1.38,36.96
+,5,Jinko Solar JKM320PP-72 (Plus),Jinko Solar,JKM320PP-72 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM320PP-72-DV,Jinko Solar,JKM320PP-72-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM320PP-J4,Jinko Solar,JKM320PP-J4,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM325PP-72,Jinko Solar,JKM325PP-72,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM325PP-72 (Plus),Jinko Solar,JKM325PP-72 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM325PP-72-DV,Jinko Solar,JKM325PP-72-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM325PP-J4,Jinko Solar,JKM325PP-J4,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM330PP-72,Jinko Solar,JKM330PP-72,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM330PP-72 (Plus),Jinko Solar,JKM330PP-72 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM330PP-72-DV,Jinko Solar,JKM330PP-72-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM330PP-J4,Jinko Solar,JKM330PP-J4,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM335PP-72,Jinko Solar,JKM335PP-72,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM335PP-72 (Plus),Jinko Solar,JKM335PP-72 (Plus),,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM335PP-72-DV,Jinko Solar,JKM335PP-72-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM335PP-J4,Jinko Solar,JKM335PP-J4,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKM340M-72 (Plus),Jinko Solar,JKM340M-72 (Plus),,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM340M-72 PERC,Jinko Solar,JKM340M-72 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM340M-72-DV,Jinko Solar,JKM340M-72-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM345M-72 (Plus),Jinko Solar,JKM345M-72 (Plus),,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM345M-72 PERC,Jinko Solar,JKM345M-72 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM345M-72-DV,Jinko Solar,JKM345M-72-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM350M-72 (Plus),Jinko Solar,JKM350M-72 (Plus),,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM350M-72 PERC,Jinko Solar,JKM350M-72 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM350M-72-DV,Jinko Solar,JKM350M-72-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM355M-72 (Plus),Jinko Solar,JKM355M-72 (Plus),,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM355M-72 PERC,Jinko Solar,JKM355M-72 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM355M-72-DV,Jinko Solar,JKM355M-72-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKM360M-72 (Plus),Jinko Solar,JKM360M-72 (Plus),,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM360M-72 PERC,Jinko Solar,JKM360M-72 PERC,,,,,Linear,25,80.2,,,,,,
+,5,Jinko Solar JKM360M-72-DV,Jinko Solar,JKM360M-72-DV,,,,,Linear,30,83,,,,,,
+,5,Jinko Solar JKMS255P,Jinko Solar,JKMS255P,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS255PP-60,Jinko Solar,JKMS255PP-60,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS260P,Jinko Solar,JKMS260P,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS260PP-60,Jinko Solar,JKMS260PP-60,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS265P,Jinko Solar,JKMS265P,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS265PP-60,Jinko Solar,JKMS265PP-60,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS270P,Jinko Solar,JKMS270P,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS270PP-60,Jinko Solar,JKMS270PP-60,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS275PP-60,Jinko Solar,JKMS275PP-60,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS310PP-72,Jinko Solar,JKMS310PP-72,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS315PP-72,Jinko Solar,JKMS315PP-72,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS320PP-72,Jinko Solar,JKMS320PP-72,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS325PP-72,Jinko Solar,JKMS325PP-72,,,,,Linear,25,80.7,,,,,,
+,5,Jinko Solar JKMS330PP-72,Jinko Solar,JKMS330PP-72,,,,,Linear,25,80.7,,,,,,
+949,5,Kyocera Solar KD140GX-LFBS,Kyocera Solar,KD140GX-LFBS,Polycrystalline,140,7,SMK,Linear,25,80,,,64.5,32.5,1.57,35.3
+1878,5,Kyocera Solar KD140SX-UFBS,Kyocera Solar,KD140SX-UFBS,Polycrystalline,140,7,SMK,Linear,25,80,,,77.5,39,1.75,59.5
+,5,Kyocera Solar KD145SX-UFU,Kyocera Solar,KD145SX-UFU,,,,,Linear,25,80,,,,,,
+,5,Kyocera Solar KD150GX-LFU,Kyocera Solar,KD150GX-LFU,,,,,Linear,25,80,,,,,,
+,5,Kyocera Solar KD150SX-UFU,Kyocera Solar,KD150SX-UFU,,,,,Linear,25,80,,,,,,
+1881,5,Kyocera Solar KD260GX-LFB2,Kyocera Solar,KD260GX-LFB2,Polycrystalline,260,5,SMK,Linear,25,80,,,65.55,39.01,1.5,39.68
+1882,5,Kyocera Solar KD265GX-LFB2,Kyocera Solar,KD265GX-LFB2,Polycrystalline,265,5,SMK,Linear,25,80,,,65.55,39.01,1.5,39.68
+1879,5,Kyocera Solar KD325GX-LFB,Kyocera Solar,KD325GX-LFB,Polycrystalline,325,5,SMK,Linear,25,80,,,65.55,39.01,1.5,39.68
+1880,5,Kyocera Solar KD330GX-LFB,Kyocera Solar,KD330GX-LFB,Polycrystalline,330,5,SMK,Linear,25,80,,,65.55,39.01,1.5,39.68
+1875,5,Kyocera Solar KU260-6MCA,Kyocera Solar,KU260-6MCA,Polycrystalline,260,5,SMK,Linear,25,80,,,77.5,39,1.75,59.5
+1876,5,Kyocera Solar KU265-6MCA,Kyocera Solar,KU265-6MCA,Polycrystalline,265,5,SMK,Linear,25,80,,,77.5,39,1.75,59.5
+,5,Kyocera Solar KU315-7ZPA,Kyocera Solar,KU315-7ZPA,,,,,Linear,25,80,,,,,,
+,5,Kyocera Solar KU320-7ZPA,Kyocera Solar,KU320-7ZPA,,,,,Linear,25,80,,,,,,
+1351,5,Kyocera Solar KU325-8BCA,Kyocera Solar,KU325-8BCA,Polycrystalline,325,5,SMK,Linear,25,80,,,64.57,39.06,1.58,41.45
+1877,5,Kyocera Solar KU330-8BCA,Kyocera Solar,KU330-8BCA,Polycrystalline,330,5,SMK,Linear,25,80,,,77.5,39,1.75,59.5
+1897,5,LG Electronics LG260S1C-B3,LG Electronics,LG260S1C-B3,Monocrystalline,260,3,MC4 connector IP 67,Linear,25,83.6,,,77,39.1,1.6,59.52
+1906,5,LG Electronics LG260S1K-B3,LG Electronics,LG260S1K-B3,Monocrystalline,260,3,MC4 connector IP 67,Linear,25,83.6,,,64.6,39.1,1.6,41.9
+1898,5,LG Electronics LG265S1C-B3,LG Electronics,LG265S1C-B3,Monocrystalline,265,3,MC4 connector IP 67,Linear,25,83.6,,,77,39.1,1.6,59.52
+1907,5,LG Electronics LG265S1K-B3,LG Electronics,LG265S1K-B3,Monocrystalline,265,3,MC4 connector IP 67,Linear,25,83.6,,,64.6,39.1,1.6,41.9
+1900,5,LG Electronics LG270S1C-B3,LG Electronics,LG270S1C-B3,Monocrystalline,270,3,MC4 connector IP 67,Linear,25,83.6,,,77,39.1,2,63.9
+1899,5,LG Electronics LG270S1K-B3,LG Electronics,LG270S1K-B3,Monocrystalline,270,3,MC4 connector IP 67,Linear,25,83.6,,,77,39.1,2,63.9
+1901,5,LG Electronics LG275S1C-B3,LG Electronics,LG275S1C-B3,Monocrystalline,275,3,MC4 connector IP 67,Linear,25,83.6,,,77,39.1,2,63.9
+1903,5,LG Electronics LG275S1C-G4,LG Electronics,LG275S1C-G4,Monocrystalline,275,3,"MC4, MC4 Compatible, IP67",Linear,25,83.6,,,64.6,39.1,1.6,41.9
+1902,5,LG Electronics LG280S1C-B3,LG Electronics,LG280S1C-B3,Monocrystalline,280,3,MC4 connector IP 67,Linear,25,83.6,,,64.6,39.1,1.6,41.9
+1904,5,LG Electronics LG280S1C-G4,LG Electronics,LG280S1C-G4,Monocrystalline,280,3,"MC4, MC4 Compatible, IP67",Linear,25,83.6,,,64.6,39.1,1.6,41.9
+1884,5,LG Electronics LG285N1C-A3,LG Electronics,LG285N1C-A3,Monocrystalline,285,3,MC4 connector IP 67,Linear,25,81.2,,,65.55,39.01,1.5,39.68
+1905,5,LG Electronics LG285S1C-G4,LG Electronics,LG285S1C-G4,Monocrystalline,285,3,"MC4, MC4 Compatible, IP67",Linear,25,83.6,,,64.6,39.1,1.6,41.9
+1885,5,LG Electronics LG290N1C-A3,LG Electronics,LG290N1C-A3,Monocrystalline,290,3,MC4 connector IP 67,Linear,25,81.2,,,65.55,39.01,1.5,39.68
+1888,5,LG Electronics LG290N1C-B3,LG Electronics,LG290N1C-B3,Monocrystalline,290,3,MC4 connector IP 67,Linear,25,83.6,,,65.55,39.01,1.5,39.68
+1886,5,LG Electronics LG295N1C-A3,LG Electronics,LG295N1C-A3,Monocrystalline,295,3,MC4 connector IP 67,Linear,25,81.2,,,65.55,39.01,1.5,39.68
+1889,5,LG Electronics LG295N1C-B3,LG Electronics,LG295N1C-B3,Monocrystalline,295,3,MC4 connector IP 67,Linear,25,83.6,,,65.55,39.01,1.5,39.68
+1883,5,LG Electronics LG300A1C-B3,LG Electronics,LG300A1C-B3,Monocrystalline,300,3,,Linear,25,83.6,,,65.55,39.01,1.5,39.68
+1887,5,LG Electronics LG300N1C-A3,LG Electronics,LG300N1C-A3,Monocrystalline,300,3,MC4 connector IP 67,Linear,25,81.2,,,65.55,39.01,1.5,39.68
+1890,5,LG Electronics LG300N1C-B3,LG Electronics,LG300N1C-B3,Monocrystalline,300,3,MC4 connector IP 67,Linear,25,83.6,,,65.55,39.01,1.5,39.68
+1892,5,LG Electronics LG300N1K-G4,LG Electronics,LG300N1K-G4,Monocrystalline,300,3,"MC4, MC4 Compatible, IP67",Linear,25,83.6,,,65.55,39.01,1.5,39.68
+1891,5,LG Electronics LG305N1C-B3,LG Electronics,LG305N1C-B3,Monocrystalline,305,3,MC4 connector IP 67,Linear,25,83.6,,,65.55,39.01,1.5,39.68
+1893,5,LG Electronics LG305N1C-G4,LG Electronics,LG305N1C-G4,Monocrystalline,305,3,"MC4, MC4 Compatible, IP67",Linear,25,83.6,,,65.55,39.01,1.5,39.68
+,5,LG Electronics LG305N1K-G4 Black,LG Electronics,LG305N1K-G4 Black,,,,,Linear,25,83.6,,,,,,
+1894,5,LG Electronics LG310N1C-G4,LG Electronics,LG310N1C-G4,Monocrystalline,310,3,"MC4, MC4 Compatible, IP67",Linear,25,83.6,,,65.55,39.01,1.5,39.68
+1895,5,LG Electronics LG315N1C-G4,LG Electronics,LG315N1C-G4,Monocrystalline,315,3,"MC4, MC4 Compatible, IP67",Linear,25,83.6,,,77,39.1,1.6,59.52
+1896,5,LG Electronics LG320N1C-G4,LG Electronics,LG320N1C-G4,Monocrystalline,320,3,"MC4, MC4 Compatible, IP67",Linear,25,83.6,,,77,39.1,1.6,59.52
+,5,LG Electronics LG335S2W-G4,LG Electronics,LG335S2W-G4,,,,,Linear,25,83.6,,,,,,
+,5,LG Electronics LG340S2W-G4,LG Electronics,LG340S2W-G4,,,,,Linear,25,83.6,,,,,,
+,5,LG Electronics LG360N2W-B3,LG Electronics,LG360N2W-B3,,,,,Linear,25,83.6,,,,,,
+,5,LG Electronics LG365N2W-B3,LG Electronics,LG365N2W-B3,,,,,Linear,25,83.6,,,,,,
+,5,LG Electronics LG365N2W-G4,LG Electronics,LG365N2W-G4,,,,,Linear,25,83.6,,,,,,
+,5,LG Electronics LG370N2W-G4,LG Electronics,LG370N2W-G4,,,,,Linear,25,83.6,,,,,,
+,5,LG Electronics LG375N2W-G4,LG Electronics,LG375N2W-G4,,,,,Linear,25,83.6,,,,,,
+,5,Neo Solar D6F290E3A,Neo Solar,D6F290E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6F295E3A,Neo Solar,D6F295E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6F300E3A,Neo Solar,D6F300E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6H305E3A,Neo Solar,D6H305E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6H310E3A,Neo Solar,D6H310E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6H315E3A,Neo Solar,D6H315E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6H320E3A,Neo Solar,D6H320E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6H325E3A,Neo Solar,D6H325E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6H365E4A,Neo Solar,D6H365E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6H370E4A,Neo Solar,D6H370E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6H375E4A,Neo Solar,D6H375E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6H380E4A,Neo Solar,D6H380E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6J290E3A,Neo Solar,D6J290E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6J295E3A,Neo Solar,D6J295E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6J300E3A,Neo Solar,D6J300E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6J305E3A,Neo Solar,D6J305E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6J310E3A,Neo Solar,D6J310E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6J315E3A,Neo Solar,D6J315E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6J320E3A,Neo Solar,D6J320E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6J325E3A,Neo Solar,D6J325E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M275B3A,Neo Solar,D6M275B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M275E3A,Neo Solar,D6M275E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M280B3A,Neo Solar,D6M280B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M280E3A,Neo Solar,D6M280E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M285B3A,Neo Solar,D6M285B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M285E3A,Neo Solar,D6M285E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M290B3A,Neo Solar,D6M290B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M290E3A,Neo Solar,D6M290E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M295B3A,Neo Solar,D6M295B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M295E3A,Neo Solar,D6M295E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M300B3A,Neo Solar,D6M300B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M300E3A,Neo Solar,D6M300E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M305B3A,Neo Solar,D6M305B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M305E3A,Neo Solar,D6M305E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M310E3A,Neo Solar,D6M310E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M330B4A,Neo Solar,D6M330B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M335B4A,Neo Solar,D6M335B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M335E4A,Neo Solar,D6M335E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M340B4A,Neo Solar,D6M340B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M340E4A,Neo Solar,D6M340E4A,,,,,Linear,25,80.2,,,,,,
+2024,5,Neo Solar D6M340E4A_WS,Neo Solar,D6M340E4A_WS,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M345B4A,Neo Solar,D6M345B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M345E4A,Neo Solar,D6M345E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M350B4A,Neo Solar,D6M350B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M350E4A,Neo Solar,D6M350E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M355B4A,Neo Solar,D6M355B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M355E4A,Neo Solar,D6M355E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M360B4A,Neo Solar,D6M360B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M360E4A,Neo Solar,D6M360E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M365B4A,Neo Solar,D6M365B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M365E4A,Neo Solar,D6M365E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6M370E4A,Neo Solar,D6M370E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P250B3A,Neo Solar,D6P250B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P255B3A,Neo Solar,D6P255B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P260B3A,Neo Solar,D6P260B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P260E3A,Neo Solar,D6P260E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P265B3A,Neo Solar,D6P265B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P265E3A,Neo Solar,D6P265E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P270B3A,Neo Solar,D6P270B3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P270E3A,Neo Solar,D6P270E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P275E3A,Neo Solar,D6P275E3A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P305B4A,Neo Solar,D6P305B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P310B4A,Neo Solar,D6P310B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P310E4A,Neo Solar,D6P310E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P315B4A,Neo Solar,D6P315B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P315E4A,Neo Solar,D6P315E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P320B4A,Neo Solar,D6P320B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P320E4A,Neo Solar,D6P320E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P325B4A,Neo Solar,D6P325B4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P325E4A,Neo Solar,D6P325E4A,,,,,Linear,25,80.2,,,,,,
+,5,Neo Solar D6P330E4A,Neo Solar,D6P330E4A,,,,,Linear,25,80.2,,,,,,
+1632,5,REC Solar REC240PE,REC Solar,REC240PE,Polycrystalline,240,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.57,39.29,1.38,37.9
+1097,5,REC Solar REC240PE(BLK),REC Solar,REC240PE(BLK),Polycrystalline,240,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,76.9,38.7,1.57,48.5
+1633,5,REC Solar REC245PE,REC Solar,REC245PE,Polycrystalline,245,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.57,39.29,1.38,37.9
+,5,REC Solar REC245PE BLK2,REC Solar,REC245PE BLK2,,,,,Linear,25,80.2,,,,,,
+1634,5,REC Solar REC250PE,REC Solar,REC250PE,Polycrystalline,250,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.57,39.29,1.38,37.9
+,5,REC Solar REC250PE BLK2,REC Solar,REC250PE BLK2,,,,,Linear,25,80.2,,,,,,
+1635,5,REC Solar REC255PE,REC Solar,REC255PE,Polycrystalline,255,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.57,39.29,1.38,37.9
+,5,REC Solar REC255PE BLK2,REC Solar,REC255PE BLK2,,,,,Linear,25,80.2,,,,,,
+1636,5,REC Solar REC260PE,REC Solar,REC260PE,Polycrystalline,260,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.57,39.29,1.38,37.9
+,5,REC Solar REC260PE BLK2,REC Solar,REC260PE BLK2,,,,,Linear,25,80.2,,,,,,
+1637,5,REC Solar REC265PE,REC Solar,REC265PE,Polycrystalline,265,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,77.17,39.29,1.97,51.1
+1908,5,REC Solar REC265PE(BLK),REC Solar,REC265PE(BLK),Polycrystalline,265,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.6,39.1,1.6,41.9
+1909,5,REC Solar REC265TP,REC Solar,REC265TP,Polycrystalline,265,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.6,39.1,1.6,41.9
+,5,REC Solar REC270PE,REC Solar,REC270PE,,,,,Linear,25,80.2,,,,,,
+1910,5,REC Solar REC270TP,REC Solar,REC270TP,Polycrystalline,270,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.6,39.1,1.6,41.9
+1911,5,REC Solar REC275TP,REC Solar,REC275TP,Polycrystalline,275,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.6,39.1,1.8,41.9
+,5,REC Solar REC275TP2,REC Solar,REC275TP2,,,,,Linear,25,80.2,,,,,,
+1912,5,REC Solar REC280TP,REC Solar,REC280TP,Polycrystalline,280,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.6,39.1,1.8,41.9
+,5,REC Solar REC280TP2,REC Solar,REC280TP2,,,,,Linear,25,80.2,,,,,,
+,5,REC Solar REC285TP,REC Solar,REC285TP,,,,,Linear,25,80.2,,,,,,
+,5,REC Solar REC285TP2,REC Solar,REC285TP2,,,,,Linear,25,80.2,,,,,,
+,5,REC Solar REC290TP2,REC Solar,REC290TP2,,,,,Linear,25,80.2,,,,,,
+,5,REC Solar REC295TP2,REC Solar,REC295TP2,,,,,Linear,25,80.2,,,,,,
+1628,5,REC Solar REC300PE72,REC Solar,REC300PE72,Polycrystalline,300,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,77.38,38.86,1.97,63.9
+1629,5,REC Solar REC305PE72,REC Solar,REC305PE72,Polycrystalline,305,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,77.38,38.86,1.97,63.9
+1630,5,REC Solar REC310PE72,REC Solar,REC310PE72,Polycrystalline,310,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,77.38,38.86,1.97,63.9
+1631,5,REC Solar REC315PE72,REC Solar,REC315PE72,Polycrystalline,315,3,Multi-Contact MC4 (4 mm_),Linear,25,80,,,64.57,39.29,1.38,37.9
+,5,REC Solar REC320PE72,REC Solar,REC320PE72,,,,,Linear,25,80.2,,,,,,
+,5,REC Solar REC325PE72,REC Solar,REC325PE72,,,,,Linear,25,80.2,,,,,,
+,5,REC Solar REC330TP72,REC Solar,REC330TP72,,,,,Linear,25,80.2,,,,,,
+,5,REC Solar REC335TP72,REC Solar,REC335TP72,,,,,Linear,25,80.2,,,,,,
+,5,REC Solar REC340TP72,REC Solar,REC340TP72,,,,,Linear,25,80.2,,,,,,
+1920,5,ReneSola JC250M-24/Bb,ReneSola,JC250M-24/Bb,Polycrystalline,250,5,MC4,Linear,25,80,,,64.96,38.97,1.5,41.88
+1925,5,ReneSola JC250M-24/Bbh,ReneSola,JC250M-24/Bbh,Polycrystalline,250,5,MC4,Linear,25,80,,,64.96,38.97,1.5,41.88
+,5,ReneSola JC250M-24/Bgs,ReneSola,JC250M-24/Bgs,,,,,Linear,25,80,,,,,,
+1106,5,ReneSola JC255M-24/Bb,ReneSola,JC255M-24/Bb,Polycrystalline,255,5,MC4,Linear,25,80,,,77.01,39.06,1.58,57.98
+1926,5,ReneSola JC255M-24/Bbh,ReneSola,JC255M-24/Bbh,Polycrystalline,255,5,MC4,Linear,25,80,,,64.96,38.97,1.5,41.88
+,5,ReneSola JC255M-24/Bbs,ReneSola,JC255M-24/Bbs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC255M-24/Bgs,ReneSola,JC255M-24/Bgs,,,,,Linear,25,80,,,,,,
+1921,5,ReneSola JC260M-24/Bb,ReneSola,JC260M-24/Bb,Polycrystalline,260,5,MC4,Linear,25,80,,,64.96,38.97,1.5,41.88
+1927,5,ReneSola JC260M-24/Bbh,ReneSola,JC260M-24/Bbh,Polycrystalline,260,5,MC4,Linear,25,80,,,64.96,38.97,1.5,41.88
+,5,ReneSola JC260M-24/Bbs,ReneSola,JC260M-24/Bbs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC260M-24/Bgs,ReneSola,JC260M-24/Bgs,,,,,Linear,25,80,,,,,,
+1922,5,ReneSola JC265M-24/Bb,ReneSola,JC265M-24/Bb,Polycrystalline,265,5,MC4,Linear,25,80,,,64.96,38.97,1.5,41.88
+,5,ReneSola JC265M-24/Bbs,ReneSola,JC265M-24/Bbs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC265M-24/Bgs,ReneSola,JC265M-24/Bgs,,,,,Linear,25,80,,,,,,
+1105,5,ReneSola JC270M-24/Ab,ReneSola,JC270M-24/Ab,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC270M-24/Bbs,ReneSola,JC270M-24/Bbs,,,,,Linear,25,80,,,,,,
+1923,5,ReneSola JC270S-24/Bb,ReneSola,JC270S-24/Bb,Monocrystalline,270,5,MC4,Linear,25,80,,,64.96,38.97,1.5,41.88
+,5,ReneSola JC270S-24/Bbs,ReneSola,JC270S-24/Bbs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC275M-24/Bbs,ReneSola,JC275M-24/Bbs,,,,,Linear,25,80,,,,,,
+1924,5,ReneSola JC275S-24/Bb,ReneSola,JC275S-24/Bb,Monocrystalline,275,5,MC4,Linear,25,80,,,64.96,38.97,1.5,41.88
+,5,ReneSola JC275S-24/Bbs,ReneSola,JC275S-24/Bbs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC280M-24/Bbs,ReneSola,JC280M-24/Bbs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC280S-24/Bbs,ReneSola,JC280S-24/Bbs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC285M-24/Bbs,ReneSola,JC285M-24/Bbs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC285S-24/Bbs,ReneSola,JC285S-24/Bbs,,,,,Linear,25,80,,,,,,
+1913,5,ReneSola JC300M-24/Ab,ReneSola,JC300M-24/Ab,Polycrystalline,300,5,MC4,Linear,25,80,,,64.6,39.1,2.1,46.7
+1917,5,ReneSola JC300M-24/Abh,ReneSola,JC300M-24/Abh,Polycrystalline,300,5,MC4,Linear,25,80,,,64.6,39.1,1.8,41.9
+,5,ReneSola JC300M-24/Ags,ReneSola,JC300M-24/Ags,,,,,Linear,25,80,,,,,,
+1914,5,ReneSola JC305M-24/Ab,ReneSola,JC305M-24/Ab,Polycrystalline,305,5,MC4,Linear,25,80,,,77.6,39.1,1.8,50
+1918,5,ReneSola JC305M-24/Abh,ReneSola,JC305M-24/Abh,Polycrystalline,305,5,MC4,Linear,25,80,,,64.96,38.97,1.5,41.88
+,5,ReneSola JC305M-24/Abs,ReneSola,JC305M-24/Abs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC305M-24/Ags,ReneSola,JC305M-24/Ags,,,,,Linear,25,80,,,,,,
+1915,5,ReneSola JC310M-24/Ab,ReneSola,JC310M-24/Ab,Polycrystalline,310,5,MC4,Linear,25,80,,,64.6,39.1,1.8,41.9
+1919,5,ReneSola JC310M-24/Abh,ReneSola,JC310M-24/Abh,Polycrystalline,310,5,MC4,Linear,25,80,,,64.96,38.97,1.5,41.88
+,5,ReneSola JC310M-24/Abs,ReneSola,JC310M-24/Abs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC310M-24/Ags,ReneSola,JC310M-24/Ags,,,,,Linear,25,80,,,,,,
+1916,5,ReneSola JC315M-24/Ab,ReneSola,JC315M-24/Ab,Polycrystalline,315,5,MC4,Linear,25,80,,,64.6,39.1,1.8,41.9
+,5,ReneSola JC315M-24/Abs,ReneSola,JC315M-24/Abs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC315M-24/Ags,ReneSola,JC315M-24/Ags,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC320M-24/Abs,ReneSola,JC320M-24/Abs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC325M-24/Abs,ReneSola,JC325M-24/Abs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC330M-24/Abs,ReneSola,JC330M-24/Abs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC330S-24/Abs,ReneSola,JC330S-24/Abs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC335M-24/Abs,ReneSola,JC335M-24/Abs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC335S-24/Abs,ReneSola,JC335S-24/Abs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC340S-24/Abs,ReneSola,JC340S-24/Abs,,,,,Linear,25,80,,,,,,
+,5,ReneSola JC345S-24/Abs,ReneSola,JC345S-24/Abs,,,,,Linear,25,80,,,,,,
+1928,5,Sharp Solar ND-240QCJ,Sharp Solar,ND-240QCJ,Polycrystalline,240,5,12 AWG with SMK Locking Connector,Linear,25,80,,,64.96,38.97,1.5,41.88
+1150,5,Sharp Solar ND-250QCS,Sharp Solar,ND-250QCS,Polycrystalline,250,5,12 AWG with SMK Locking Connector,Linear,25,80,,,77.01,39.06,1.58,57.98
+1151,5,Sharp Solar ND-F2Q235 SunSnap,Sharp Solar,ND-F2Q235 SunSnap,Polycrystalline,235,5,12 AWG with SMK Locking Connector,Linear,25,80,,,77.01,39.06,1.58,57.98
+1929,5,Sharp Solar ND-F4Q300,Sharp Solar,ND-F4Q300,Polycrystalline,300,5,12 AWG with SMK Locking Connector,Linear,25,80,,,64.96,38.97,1.5,41.88
+1153,5,Sharp Solar ND-Q235F4,Sharp Solar,ND-Q235F4,Polycrystalline,235,5,12 AWG with SMK Locking Connector,Linear,25,80,,,62.21,31.81,1.58,33.07
+1149,5,Sharp Solar ND-Q245F7,Sharp Solar,ND-Q245F7,Polycrystalline,245,5,12 AWG with SMK Locking Connector,Linear,25,80,,,77.01,39.06,1.58,57.98
+1930,5,Sharp Solar ND-Q250F7,Sharp Solar,ND-Q250F7,Polycrystalline,250,5,12 AWG with SMK Locking Connector,Linear,25,80,,,77.55,38.97,1.5,50.7
+1938,5,Silfab Solar SLA 245 P,Silfab Solar,SLA 245 P,Polycrystalline,245,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1939,5,Silfab Solar SLA 250 P,Silfab Solar,SLA 250 P,Polycrystalline,250,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1940,5,Silfab Solar SLA 255 P,Silfab Solar,SLA 255 P,Polycrystalline,255,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1941,5,Silfab Solar SLA 260 P,Silfab Solar,SLA 260 P,Polycrystalline,260,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1942,5,Silfab Solar SLA 265 P,Silfab Solar,SLA 265 P,Polycrystalline,265,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+,5,Silfab Solar SLA250P,Silfab Solar,SLA250P,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLA255P,Silfab Solar,SLA255P,,,,,Linear,25,82,,,,,,
+1931,5,Silfab Solar SLA260M,Silfab Solar,SLA260M,Monocrystalline,260,-2,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+,5,Silfab Solar SLA260P,Silfab Solar,SLA260P,,,,,Linear,25,82,,,,,,
+1932,5,Silfab Solar SLA265M,Silfab Solar,SLA265M,Monocrystalline,265,-1,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+,5,Silfab Solar SLA265P,Silfab Solar,SLA265P,,,,,Linear,25,82,,,,,,
+1933,5,Silfab Solar SLA270M,Silfab Solar,SLA270M,Monocrystalline,270,0,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1934,5,Silfab Solar SLA275M,Silfab Solar,SLA275M,Monocrystalline,275,1,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1935,5,Silfab Solar SLA280M,Silfab Solar,SLA280M,Monocrystalline,280,2,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1936,5,Silfab Solar SLA285M,Silfab Solar,SLA285M,Monocrystalline,285,3,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+,5,Silfab Solar SLA285X,Silfab Solar,SLA285X,,,,,Linear,25,82,,,,,,
+1937,5,Silfab Solar SLA290M,Silfab Solar,SLA290M,Monocrystalline,290,4,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+,5,Silfab Solar SLA290X,Silfab Solar,SLA290X,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLA295M,Silfab Solar,SLA295M,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLA295X,Silfab Solar,SLA295X,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLA300M,Silfab Solar,SLA300M,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLA300X,Silfab Solar,SLA300X,,,,,Linear,25,82,,,,,,
+1949,5,Silfab Solar SLG 295 P,Silfab Solar,SLG 295 P,Polycrystalline,295,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+1950,5,Silfab Solar SLG 300 P,Silfab Solar,SLG 300 P,Polycrystalline,300,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+1951,5,Silfab Solar SLG 305 P,Silfab Solar,SLG 305 P,Polycrystalline,305,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+1952,5,Silfab Solar SLG 310 P,Silfab Solar,SLG 310 P,Polycrystalline,310,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+1953,5,Silfab Solar SLG 315 P,Silfab Solar,SLG 315 P,Polycrystalline,315,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+,5,Silfab Solar SLG300P,Silfab Solar,SLG300P,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLG305P,Silfab Solar,SLG305P,,,,,Linear,25,82,,,,,,
+1943,5,Silfab Solar SLG310M,Silfab Solar,SLG310M,Monocrystalline,310,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+,5,Silfab Solar SLG310P,Silfab Solar,SLG310P,,,,,Linear,25,82,,,,,,
+1944,5,Silfab Solar SLG315M,Silfab Solar,SLG315M,Monocrystalline,315,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+,5,Silfab Solar SLG315P,Silfab Solar,SLG315P,,,,,Linear,25,82,,,,,,
+1662,5,Silfab Solar SLG320M,Silfab Solar,SLG320M,Monocrystalline,320,5,MC4 comparable,Linear,25,82,,,77.17,39.29,1.97,51.1
+1945,5,Silfab Solar SLG325M,Silfab Solar,SLG325M,Monocrystalline,325,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+1946,5,Silfab Solar SLG330M,Silfab Solar,SLG330M,Monocrystalline,330,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+1947,5,Silfab Solar SLG335M,Silfab Solar,SLG335M,Monocrystalline,335,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+,5,Silfab Solar SLG335X,Silfab Solar,SLG335X,,,,,Linear,25,82,,,,,,
+1948,5,Silfab Solar SLG340M,Silfab Solar,SLG340M,Monocrystalline,340,5,MC4 comparable,Linear,25,82,,,64.96,38.97,1.5,41.88
+,5,Silfab Solar SLG340X,Silfab Solar,SLG340X,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLG345M,Silfab Solar,SLG345M,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLG345X,Silfab Solar,SLG345X,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLG350M,Silfab Solar,SLG350M,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLG350X,Silfab Solar,SLG350X,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLG355M,Silfab Solar,SLG355M,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SLG360M,Silfab Solar,SLG360M,,,,,Linear,25,82,,,,,,
+1961,5,Silfab Solar SSA 250 P,Silfab Solar,SSA 250 P,Polycrystalline,250,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1962,5,Silfab Solar SSA 255 P,Silfab Solar,SSA 255 P,Polycrystalline,255,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1963,5,Silfab Solar SSA 260 P,Silfab Solar,SSA 260 P,Polycrystalline,260,5,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+1964,5,Silfab Solar SSA 265 P,Silfab Solar,SSA 265 P,Polycrystalline,265,5,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+,5,Silfab Solar SSA250P,Silfab Solar,SSA250P,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SSA255P,Silfab Solar,SSA255P,,,,,Linear,25,82,,,,,,
+1954,5,Silfab Solar SSA260M,Silfab Solar,SSA260M,Monocrystalline,260,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+,5,Silfab Solar SSA260P,Silfab Solar,SSA260P,,,,,Linear,25,82,,,,,,
+1955,5,Silfab Solar SSA265M,Silfab Solar,SSA265M,Monocrystalline,265,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+,5,Silfab Solar SSA265P,Silfab Solar,SSA265P,,,,,Linear,25,82,,,,,,
+1956,5,Silfab Solar SSA270M,Silfab Solar,SSA270M,Monocrystalline,270,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1957,5,Silfab Solar SSA275M,Silfab Solar,SSA275M,Monocrystalline,275,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1958,5,Silfab Solar SSA280M,Silfab Solar,SSA280M,Monocrystalline,280,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1959,5,Silfab Solar SSA285M,Silfab Solar,SSA285M,Monocrystalline,285,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+1960,5,Silfab Solar SSA290M,Silfab Solar,SSA290M,Monocrystalline,290,5,MC4 comparable,Linear,25,82,,,77.55,38.97,1.5,50.7
+,5,Silfab Solar SSA295M,Silfab Solar,SSA295M,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SSA300M,Silfab Solar,SSA300M,,,,,Linear,25,82,,,,,,
+1970,5,Silfab Solar SSG 295 P,Silfab Solar,SSG 295 P,Polycrystalline,295,6,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+1971,5,Silfab Solar SSG 300 P,Silfab Solar,SSG 300 P,Polycrystalline,300,7,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+1972,5,Silfab Solar SSG 305 P,Silfab Solar,SSG 305 P,Polycrystalline,305,8,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+1973,5,Silfab Solar SSG 310 P,Silfab Solar,SSG 310 P,Polycrystalline,310,9,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+1974,5,Silfab Solar SSG 315 P,Silfab Solar,SSG 315 P,Polycrystalline,315,10,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+,5,Silfab Solar SSG300P,Silfab Solar,SSG300P,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SSG305P,Silfab Solar,SSG305P,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SSG310P,Silfab Solar,SSG310P,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SSG315P,Silfab Solar,SSG315P,,,,,Linear,25,82,,,,,,
+1965,5,Silfab Solar SSG320M,Silfab Solar,SSG320M,Monocrystalline,320,6,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+1966,5,Silfab Solar SSG325M,Silfab Solar,SSG325M,Monocrystalline,325,7,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+1967,5,Silfab Solar SSG330M,Silfab Solar,SSG330M,Monocrystalline,330,8,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+1968,5,Silfab Solar SSG335M,Silfab Solar,SSG335M,Monocrystalline,335,9,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+1969,5,Silfab Solar SSG340M,Silfab Solar,SSG340M,Monocrystalline,340,10,MC4 comparable,Linear,25,82,,,77.79,38.97,1.96,48.5
+,5,Silfab Solar SSG345M,Silfab Solar,SSG345M,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SSG350M,Silfab Solar,SSG350M,,,,,Linear,25,82,,,,,,
+,5,Silfab Solar SSG355M,Silfab Solar,SSG355M,,,,,Linear,25,82,,,,,,
+1975,5,SunEdison F310BzC,SunEdison,F310BzC,Monocrystalline,310,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1981,5,SunEdison F310BzD,SunEdison,F310BzD,Monocrystalline,310,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1986,5,SunEdison F310EzC,SunEdison,F310EzC,Monocrystalline,310,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1992,5,SunEdison F310EzD,SunEdison,F310EzD,Monocrystalline,310,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.96,48.5
+1976,5,SunEdison F315BzC,SunEdison,F315BzC,Monocrystalline,315,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1982,5,SunEdison F315BzD,SunEdison,F315BzD,Monocrystalline,315,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1987,5,SunEdison F315EzC,SunEdison,F315EzC,Monocrystalline,315,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.96,48.5
+1993,5,SunEdison F315EzD,SunEdison,F315EzD,Monocrystalline,315,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1977,5,SunEdison F320BzC,SunEdison,F320BzC,Monocrystalline,320,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1664,5,SunEdison F320BzD,SunEdison,F320BzD,Monocrystalline,320,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.17,39.29,1.97,51.1
+1988,5,SunEdison F320EzC,SunEdison,F320EzC,Monocrystalline,320,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.96,48.5
+1994,5,SunEdison F320EzD,SunEdison,F320EzD,Monocrystalline,320,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1978,5,SunEdison F325BzC,SunEdison,F325BzC,Monocrystalline,325,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1983,5,SunEdison F325BzD,SunEdison,F325BzD,Monocrystalline,325,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1989,5,SunEdison F325EzC,SunEdison,F325EzC,Monocrystalline,325,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.96,48.5
+1995,5,SunEdison F325EzD,SunEdison,F325EzD,Monocrystalline,325,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1979,5,SunEdison F330BzC,SunEdison,F330BzC,Monocrystalline,330,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1984,5,SunEdison F330BzD,SunEdison,F330BzD,Monocrystalline,330,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1990,5,SunEdison F330EzC,SunEdison,F330EzC,Monocrystalline,330,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.96,48.5
+1996,5,SunEdison F330EzD,SunEdison,F330EzD,Monocrystalline,330,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1980,5,SunEdison F335BzC,SunEdison,F335BzC,Monocrystalline,335,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1985,5,SunEdison F335BzD,SunEdison,F335BzD,Monocrystalline,335,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1991,5,SunEdison F335EzC,SunEdison,F335EzC,Monocrystalline,335,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.96,48.5
+1997,5,SunEdison F335EzD,SunEdison,F335EzD,Monocrystalline,335,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+1998,5,SunEdison R330BzC,SunEdison,R330BzC,Monocrystalline,330,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,77.79,38.97,1.37,46.73
+2004,5,SunEdison R330EzC,SunEdison,R330EzC,Monocrystalline,330,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,64.57,38.98,1.38,40.8
+1999,5,SunEdison R335BzC,SunEdison,R335BzC,Monocrystalline,335,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,61.3,41.2,1.8,41
+2005,5,SunEdison R335EzC,SunEdison,R335EzC,Monocrystalline,335,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,64.57,38.98,1.38,40.8
+2000,5,SunEdison R340BzC,SunEdison,R340BzC,Monocrystalline,340,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,61.3,41.2,1.8,41
+2006,5,SunEdison R340EzC,SunEdison,R340EzC,Monocrystalline,340,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,64.57,38.98,1.38,40.8
+2001,5,SunEdison R345BzC,SunEdison,R345BzC,Monocrystalline,345,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,61.4,41.2,1.81,41
+2007,5,SunEdison R345EzC,SunEdison,R345EzC,Monocrystalline,345,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,64.57,38.98,1.38,40.8
+2002,5,SunEdison R350BzC,SunEdison,R350BzC,Monocrystalline,350,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,61.4,41.2,1.81,41
+2008,5,SunEdison R350EzC,SunEdison,R350EzC,Monocrystalline,350,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,64.57,38.98,1.57,43.4
+2003,5,SunEdison R355BzC,SunEdison,R355BzC,Monocrystalline,355,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,64.57,38.98,1.38,40.8
+2009,5,SunEdison R355EzC,SunEdison,R355EzC,Monocrystalline,355,5,"Amphenol H4 (_39); Bizlink S418 (_34, _35)",Linear,25,80.4,,,64.57,38.98,1.57,43.4
+1277,5,SunPower E19-320,SunPower,E19-320,Monocrystalline,320,5,"IP-65, MC4 Compatible",Linear,25,87,,,62.21,31.81,1.58,33.07
+1278,5,SunPower E20-327,SunPower,E20-327,Monocrystalline,327,5,"IP-65, MC4 Compatible",Linear,25,87,,,62.21,31.81,1.58,33.07
+,5,SunPower SPR-P17-330-COM,SunPower,SPR-P17-330-COM,,,,,Linear,25,82.6,,,,,,
+,5,SunPower SPR-P17-335-COM,SunPower,SPR-P17-335-COM,,,,,Linear,25,82.6,,,,,,
+,5,SunPower SPR-P17-335-COM 1500V,SunPower,SPR-P17-335-COM 1500V,,,,,Linear,25,82.6,,,,,,
+,5,SunPower SPR-P17-340-COM,SunPower,SPR-P17-340-COM,,,,,Linear,25,82.6,,,,,,
+,5,SunPower SPR-P17-340-COM 1500V,SunPower,SPR-P17-340-COM 1500V,,,,,Linear,25,82.6,,,,,,
+,5,SunPower SPR-P17-345-COM,SunPower,SPR-P17-345-COM,,,,,Linear,25,82.6,,,,,,
+,5,SunPower SPR-P17-345-COM 1500V,SunPower,SPR-P17-345-COM 1500V,,,,,Linear,25,82.6,,,,,,
+,5,SunPower SPR-P17-350-COM,SunPower,SPR-P17-350-COM,,,,,Linear,25,82.6,,,,,,
+,5,SunPower SPR-P17-350-COM 1500V,SunPower,SPR-P17-350-COM 1500V,,,,,Linear,25,82.6,,,,,,
+,5,SunPower SPR-P17-355-COM 1500V,SunPower,SPR-P17-355-COM 1500V,,,,,Linear,25,82.6,,,,,,
+,5,SunPower SPR-X21-345,SunPower,SPR-X21-345,,,,,Linear,25,87,,,,,,
+1283,5,SunPower SPR-X21-335-BLK,SunPower,SPR-X21-335-BLK,Monocrystalline,335,5,MC4 Compatible,Linear,25,87,,,62.21,31.81,1.58,33.07
+1284,5,SunPower SPR-X21-345,SunPower,SPR-X21-345,Monocrystalline,345,5,MC4 Compatible,Linear,25,87,,,52.13,39.06,1.58,35.49
+2014,5,Yingli Solar YL240P-29b,Yingli Solar,YL240P-29b,Polycrystalline,240,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,77.6,39.4,1.57,56.2
+,5,Yingli Solar YL240P-29b Zep,Yingli Solar,YL240P-29b Zep,,,,,Linear,25,80.2,,,,,,
+2013,5,Yingli Solar YL245P-29b,Yingli Solar,YL245P-29b,Polycrystalline,245,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,77.6,39.4,1.57,56.2
+,5,Yingli Solar YL245P-29b Zep,Yingli Solar,YL245P-29b Zep,,,,,Linear,25,80.2,,,,,,
+2012,5,Yingli Solar YL250P-29b,Yingli Solar,YL250P-29b,Polycrystalline,250,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,77.6,39.4,1.57,56.2
+,5,Yingli Solar YL250P-29b Zep,Yingli Solar,YL250P-29b Zep,,,,,Linear,25,80.2,,,,,,
+2011,5,Yingli Solar YL255P-29b,Yingli Solar,YL255P-29b,Polycrystalline,255,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,77.6,39.4,1.57,56.2
+,5,Yingli Solar YL255P-29b Zep,Yingli Solar,YL255P-29b Zep,,,,,Linear,25,80.2,,,,,,
+2010,5,Yingli Solar YL260P-29b,Yingli Solar,YL260P-29b,Polycrystalline,260,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,77.6,39.4,1.57,56.2
+,5,Yingli Solar YL260P-29b Zep,Yingli Solar,YL260P-29b Zep,,,,,Linear,25,80.2,,,,,,
+2015,5,Yingli Solar YL260P-29b-Amp,Yingli Solar,YL260P-29b-Amp,Polycrystalline,260,3,Amphenol H4 / IP68,Linear,25,80,,,77.6,39.4,1.57,56.2
+,5,Yingli Solar YL265P-29b,Yingli Solar,YL265P-29b,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL270D-30b,Yingli Solar,YL270D-30b,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL270P-29b,Yingli Solar,YL270P-29b,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL275D-30b,Yingli Solar,YL275D-30b,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL280D-30b,Yingli Solar,YL280D-30b,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL285D-30b,Yingli Solar,YL285D-30b,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL290D-30b,Yingli Solar,YL290D-30b,,,,,Linear,25,80.2,,,,,,
+1325,5,Yingli Solar YL295P-35b,Yingli Solar,YL295P-35b,Polycrystalline,295,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,52.13,39.06,1.58,35.49
+1355,5,Yingli Solar YL300P-35b,Yingli Solar,YL300P-35b,Polycrystalline,300,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,64.57,39.06,1.58,41.45
+,5,Yingli Solar YL300P-35b 1500V,Yingli Solar,YL300P-35b 1500V,,,,,Linear,25,80.2,,,,,,
+1356,5,Yingli Solar YL305P-35b,Yingli Solar,YL305P-35b,Polycrystalline,305,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,64.57,39.06,1.58,41.45
+,5,Yingli Solar YL305P-35b 1500V,Yingli Solar,YL305P-35b 1500V,,,,,Linear,25,80.2,,,,,,
+1357,5,Yingli Solar YL310P-35b,Yingli Solar,YL310P-35b,Polycrystalline,310,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,64.57,39.06,1.58,41.45
+,5,Yingli Solar YL310P-35b 1500V,Yingli Solar,YL310P-35b 1500V,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL315D-36b,Yingli Solar,YL315D-36b,,,,,Linear,25,80.2,,,,,,
+2016,5,Yingli Solar YL315P-35b,Yingli Solar,YL315P-35b,Polycrystalline,315,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,77.6,39.4,1.57,56.2
+,5,Yingli Solar YL315P-35b 1500V,Yingli Solar,YL315P-35b 1500V,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL320D-36b,Yingli Solar,YL320D-36b,,,,,Linear,25,80.2,,,,,,
+2017,5,Yingli Solar YL320P-35b,Yingli Solar,YL320P-35b,Polycrystalline,320,3,MC4 / IP67 or Amphenol H4 / IP68,Linear,25,80,,,77.6,39.4,1.57,56.2
+,5,Yingli Solar YL320P-35b 1500V,Yingli Solar,YL320P-35b 1500V,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL325D-36b,Yingli Solar,YL325D-36b,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL330D-36b,Yingli Solar,YL330D-36b,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL335D-36b,Yingli Solar,YL335D-36b,,,,,Linear,25,80.2,,,,,,
+,5,Yingli Solar YL340D-36b,Yingli Solar,YL340D-36b,,,,,Linear,25,80.2,,,,,,

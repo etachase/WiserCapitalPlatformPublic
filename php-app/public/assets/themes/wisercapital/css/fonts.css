@@ -1,0 +1,70 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: 'Futura-Light';
+  src: url('../fonts/FuturaLight.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/FuturaLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/FuturaLight.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/FuturaLight.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/FuturaLight.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/FuturaLight.svg') format('svg'); /* Legacy iOS */  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Futura-Heavy';
+  src: url('../fonts/ufontscomfutura-heavy.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/ufontscomfutura-heavy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/ufontscomfutura-heavy.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/ufontscomfutura-heavy.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/ufontscomfutura-heavy.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/ufontscomfutura-heavy.svg') format('svg'); /* Legacy iOS */  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'wisercapital';
+  src:  url('../fonts/wisercapital.eot?qitfde');
+  src:  url('../fonts/wisercapital.eot?qitfde#iefix') format('embedded-opentype'),
+    url('../fonts/wisercapital.ttf?qitfde') format('truetype'),
+    url('../fonts/wisercapital.woff?qitfde') format('woff'),
+    url('../fonts/wisercapital.svg?qitfde#wisercapital') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'wisercapital' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add-pin:before {
+  content: "\e900";
+}
+.icon-delete:before {
+  content: "\e901";
+}
+.icon-crop:before {
+  content: "\e902";
+}
+.icon-cut:before {
+  content: "\e903";
+}
+.icon-rectangle:before {
+  content: "\e904";
+}
+.icon-polygon:before {
+  content: "\e905";
+}
+.icon-move:before {
+  content: "\e906";
+}
+
