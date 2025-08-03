@@ -1,0 +1,16 @@
+{
+  "name": "@wiser/types",
+  "version": "1.0.0",
+  "description": "Shared TypeScript type definitions for Wiser Capital Platform",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "catalog:"
+  }
+}

@@ -1,0 +1,137 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: wiser-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: wiser_capital_dev
+      POSTGRES_USER: wiser_dev
+      POSTGRES_PASSWORD: dev_password
+    ports:
+      - '5432:5432'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./tools/docker/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - wiser-network
+
+  # Redis Cache
+  redis:
+    image: redis:7-alpine
+    container_name: wiser-redis
+    restart: unless-stopped
+    ports:
+      - '6379:6379'
+    volumes:
+      - redis_data:/data
+    networks:
+      - wiser-network
+
+  # API Development Server
+  api:
+    build:
+      context: .
+      dockerfile: ./tools/docker/api/Dockerfile.dev
+    container_name: wiser-api-dev
+    restart: unless-stopped
+    environment:
+      NODE_ENV: development
+      DATABASE_URL: postgresql://wiser_dev:dev_password@postgres:5432/wiser_capital_dev
+      REDIS_URL: redis://redis:6379
+    ports:
+      - '3001:3001'
+    volumes:
+      - ./apps/api:/app/apps/api
+      - ./libs:/app/libs
+      - ./node_modules:/app/node_modules
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - wiser-network
+    command: pnpm run dev:api
+
+  # Web Development Server
+  web:
+    build:
+      context: .
+      dockerfile: ./tools/docker/web/Dockerfile.dev
+    container_name: wiser-web-dev
+    restart: unless-stopped
+    environment:
+      NODE_ENV: development
+      NEXT_PUBLIC_API_URL: http://localhost:3001
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./apps/web:/app/apps/web
+      - ./libs:/app/libs
+      - ./node_modules:/app/node_modules
+    depends_on:
+      - api
+    networks:
+      - wiser-network
+    command: pnpm run dev:web
+
+  # Prisma Studio (Database Admin)
+  prisma-studio:
+    build:
+      context: .
+      dockerfile: ./tools/docker/api/Dockerfile.dev
+    container_name: wiser-prisma-studio
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql://wiser_dev:dev_password@postgres:5432/wiser_capital_dev
+    ports:
+      - '5555:5555'
+    volumes:
+      - ./apps/api:/app/apps/api
+      - ./libs:/app/libs
+    depends_on:
+      - postgres
+    networks:
+      - wiser-network
+    command: pnpm run db:studio
+
+  # MinIO (S3-compatible storage for development)
+  minio:
+    image: minio/minio:latest
+    container_name: wiser-minio
+    restart: unless-stopped
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin123
+    ports:
+      - '9000:9000'
+      - '9001:9001'
+    volumes:
+      - minio_data:/data
+    networks:
+      - wiser-network
+    command: server /data --console-address \":9001\"
+
+  # MailHog (Email testing)
+  mailhog:
+    image: mailhog/mailhog:latest
+    container_name: wiser-mailhog
+    restart: unless-stopped
+    ports:
+      - '1025:1025'
+      - '8025:8025'
+    networks:
+      - wiser-network
+
+volumes:
+  postgres_data:
+    driver: local
+  redis_data:
+    driver: local
+  minio_data:
+    driver: local
+
+networks:
+  wiser-network:
+    driver: bridge
